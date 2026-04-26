@@ -1,0 +1,10 @@
+# Arabic Learning Bot Requirements
+
+# Core dependencies
+python-dotenv>=1.0.0
+Pillow>=10.0.0
+requests>=2.31.0
+edge-tts>=6.1.0
+
+# Video processing (optional - uses FFmpeg directly)
+# moviepy>=1.0.3

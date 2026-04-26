@@ -1,0 +1,394 @@
+{
+  "used_phrases": [
+    "i study arabic to communicate with my colleagues.",
+    "i work hard because i want to support my family.",
+    "i save money to travel to morocco next year.",
+    "i exercise every morning to stay healthy.",
+    "i volunteer because i want to help others in my community.",
+    "i'm very hungry; let's eat something now.",
+    "i'm thirsty; could i have a glass of water, please?",
+    "i'm allergic to peanuts, so i cannot eat this salad.",
+    "can you recommend a popular local dish?",
+    "the food tastes delicious; please tell the chef i enjoyed it.",
+    "i achieved my goal after months of hard work.",
+    "failure taught me valuable lessons that made me stronger.",
+    "hard work pays off over time, so stay consistent.",
+    "set clear goals and make a plan to reach them.",
+    "celebrate small wins because they build momentum.",
+    "i have a cat and a dog at home.",
+    "the birds are singing beautifully this morning.",
+    "i love seeing horses run in the field.",
+    "can you see that elephant at the zoo?",
+    "my friend is allergic to cats.",
+    "i enjoy reading books in my free time.",
+    "my favorite hobby is playing football.",
+    "i like to travel and explore new places.",
+    "i spend my weekends hiking in the mountains.",
+    "i love cooking new recipes at home.",
+    "where is the nearest train station?",
+    "i would like to book a hotel room for two nights.",
+    "how much does this cost?",
+    "can you help me please?",
+    "i am allergic to peanuts.",
+    "excuse me, where is the nearest bathroom?",
+    "can you please show me on the map?",
+    "how do i get to the train station?",
+    "is it far from here?",
+    "turn left at the next corner.",
+    "i am very happy today.",
+    "he looks sad because he misses his family.",
+    "she is angry about the delayed train.",
+    "i feel scared of the loud noise.",
+    "we are excited for our upcoming vacation.",
+    "i have a headache.",
+    "i feel tired.",
+    "my stomach hurts.",
+    "i need to see a doctor.",
+    "i love you very much.",
+    "you are beautiful.",
+    "my heart belongs to you.",
+    "i miss you a lot.",
+    "you are my everything.",
+    "what is the weather like today?",
+    "it is very hot outside.",
+    "it is cold and i need a jacket.",
+    "it looks like it will rain soon.",
+    "the sky is clear and sunny.",
+    "what time is it right now?",
+    "the meeting is scheduled for three o'clock in the afternoon.",
+    "i need two apples and one banana from the market.",
+    "my birthday is on the fifth of may.",
+    "can you repeat that number please?",
+    "patience is a virtue that brings comfort.",
+    "actions speak louder than words.",
+    "every beginning is difficult.",
+    "knowledge is power.",
+    "opportunity knocks but once.",
+    "i want to buy this shirt.",
+    "do you have this in a smaller size?",
+    "can i pay with a credit card?",
+    "where is the changing room?",
+    "hello, how are you today?",
+    "thank you very much for your help.",
+    "i would like to order a cup of coffee.",
+    "excuse me, where is the bathroom?",
+    "goodbye, it was nice meeting you.",
+    "this shirt is a beautiful blue color.",
+    "the car is black and very fast.",
+    "i like the green color of the trees.",
+    "her dress is a lovely shade of red.",
+    "the sky is bright yellow during sunset.",
+    "my brother is a doctor.",
+    "my sister lives in cairo.",
+    "i have two children.",
+    "my parents are visiting next week.",
+    "my wife is very kind.",
+    "i am very happy today because i achieved my goal.",
+    "this beautiful weather makes me feel joyful.",
+    "seeing my family always brings me great happiness.",
+    "i wish you all the happiness in the world.",
+    "finding this book was a moment of pure bliss.",
+    "i want to learn arabic very much.",
+    "this arabic word is difficult for me.",
+    "i practice speaking arabic every day.",
+    "learning arabic opens many doors for me.",
+    "i am motivated by the rich culture of arabic-speaking countries.",
+    "excuse me, where is the train station?",
+    "i don't understand this word.",
+    "nice to meet you.",
+    "i am looking for a new job opportunity.",
+    "what are your working hours?",
+    "this project requires a lot of effort.",
+    "i need to schedule a meeting with the manager.",
+    "our company has a great team."
+  ],
+  "used_categories": [
+    {
+      "category": "الدافع",
+      "timestamp": "2026-03-19T23:19:22.540426"
+    },
+    {
+      "category": "الطعام والطعام",
+      "timestamp": "2026-03-19T23:25:13.558216"
+    },
+    {
+      "category": "النجاح",
+      "timestamp": "2026-03-20T13:46:03.647373"
+    },
+    {
+      "category": "الحيوانات",
+      "timestamp": "2026-03-20T09:01:31.639818"
+    },
+    {
+      "category": "الهوايات والأنشطة",
+      "timestamp": "2026-03-20T11:01:18.062662"
+    },
+    {
+      "category": "أساسيات السفر",
+      "timestamp": "2026-03-20T16:02:32.440499"
+    },
+    {
+      "category": "الاتجاهات",
+      "timestamp": "2026-03-20T20:01:02.589204"
+    },
+    {
+      "category": "العواطف والمشاعر",
+      "timestamp": "2026-03-21T04:54:39.307623"
+    },
+    {
+      "category": "الصحة والجسد",
+      "timestamp": "2026-03-21T09:57:03.241006"
+    },
+    {
+      "category": "الحب",
+      "timestamp": "2026-03-21T14:56:52.092893"
+    },
+    {
+      "category": "الطقس",
+      "timestamp": "2026-03-21T19:44:43.971587"
+    },
+    {
+      "category": "الأرقام والوقت",
+      "timestamp": "2026-03-22T05:12:32.019030"
+    },
+    {
+      "category": "الحكمة",
+      "timestamp": "2026-03-22T09:58:29.535604"
+    },
+    {
+      "category": "التسوق",
+      "timestamp": "2026-03-22T14:57:33.770600"
+    },
+    {
+      "category": "الصحة والجسد",
+      "timestamp": "2026-03-22T19:46:13.683680"
+    },
+    {
+      "category": "النجاح",
+      "timestamp": "2026-03-23T05:48:04.314999"
+    },
+    {
+      "category": "الألوان والأوصاف",
+      "timestamp": "2026-03-23T05:48:48.585986"
+    },
+    {
+      "category": "العائلة والعلاقات",
+      "timestamp": "2026-03-23T11:34:11.855756"
+    },
+    {
+      "category": "السعادة",
+      "timestamp": "2026-03-23T17:10:53.083560"
+    },
+    {
+      "category": "التسوق",
+      "timestamp": "2026-03-23T20:58:19.010101"
+    },
+    {
+      "category": "الحب",
+      "timestamp": "2026-03-24T05:16:24.091563"
+    },
+    {
+      "category": "الدافع",
+      "timestamp": "2026-03-24T11:35:24.273637"
+    },
+    {
+      "category": "العبارات الشائعة",
+      "timestamp": "2026-03-24T17:33:31.708333"
+    },
+    {
+      "category": "الحيوانات",
+      "timestamp": "2026-03-24T21:00:57.492313"
+    },
+    {
+      "category": "الحكمة",
+      "timestamp": "2026-03-25T05:16:57.069515"
+    },
+    {
+      "category": "التسوق",
+      "timestamp": "2026-03-25T11:28:51.384216"
+    },
+    {
+      "category": "السعادة",
+      "timestamp": "2026-03-25T17:39:12.981975"
+    },
+    {
+      "category": "النجاح",
+      "timestamp": "2026-03-25T20:57:54.647106"
+    },
+    {
+      "category": "العائلة والعلاقات",
+      "timestamp": "2026-03-26T05:51:37.956624"
+    },
+    {
+      "category": "الحب",
+      "timestamp": "2026-03-26T11:39:02.260032"
+    },
+    {
+      "category": "الاتجاهات",
+      "timestamp": "2026-03-26T17:39:33.485656"
+    },
+    {
+      "category": "الحيوانات",
+      "timestamp": "2026-03-26T20:05:45.393256"
+    },
+    {
+      "category": "الطقس",
+      "timestamp": "2026-03-27T05:52:16.160053"
+    },
+    {
+      "category": "الحكمة",
+      "timestamp": "2026-03-27T11:31:20.684494"
+    },
+    {
+      "category": "العائلة والعلاقات",
+      "timestamp": "2026-03-27T16:39:32.827253"
+    },
+    {
+      "category": "الصحة والجسد",
+      "timestamp": "2026-03-27T20:05:22.743679"
+    },
+    {
+      "category": "النجاح",
+      "timestamp": "2026-03-28T05:15:01.617714"
+    },
+    {
+      "category": "الحب",
+      "timestamp": "2026-03-28T10:04:48.304798"
+    },
+    {
+      "category": "الاتجاهات",
+      "timestamp": "2026-03-28T15:02:41.643568"
+    },
+    {
+      "category": "العمل والأعمال",
+      "timestamp": "2026-03-28T19:55:29.351554"
+    },
+    {
+      "category": "الأرقام والوقت",
+      "timestamp": "2026-03-29T05:53:45.326543"
+    },
+    {
+      "category": "الحيوانات",
+      "timestamp": "2026-03-29T10:05:16.060263"
+    },
+    {
+      "category": "العواطف والمشاعر",
+      "timestamp": "2026-03-29T15:04:41.714851"
+    },
+    {
+      "category": "الصحة والجسد",
+      "timestamp": "2026-03-29T19:58:20.496280"
+    },
+    {
+      "category": "العبارات الشائعة",
+      "timestamp": "2026-03-30T06:17:45.769274"
+    },
+    {
+      "category": "العمل والأعمال",
+      "timestamp": "2026-03-30T12:04:41.291398"
+    }
+  ],
+  "phrase_hashes": [
+    "70efa0bbeeb3b17e22cbbe657d885aed",
+    "eff059b33c445fe74c2294794d713f11",
+    "5e6b65cd1d03b3b96020c5ff6ce07fe3",
+    "f34131d568f9bb24fcbb269ae94419c6",
+    "668e1ad66b9bd975df32539367c4efda",
+    "5864055a9cbd95b11486bad2b33cfd25",
+    "ed01a4b8144858e554fbd14ed86a8e7b",
+    "c2a1d10aa710d0d600a7dd597860722a",
+    "40b335edd199df9136249dbfa6b56508",
+    "9068f21be938a5fe05335bc662a9c249",
+    "a7fb4d081994558106da0f4b8e59ceb6",
+    "8e001df037fee7c3b83f343665625823",
+    "a1aae6d7836bad9d2b5972df4868bd46",
+    "532313a6894aa3b3e4be47d6bad4b1df",
+    "dcd42c5e72569112e9390741e8baadc6",
+    "37f1f3838b94f8eb8bd1b442ebe188ff",
+    "c3ee64870464cda98921c1b0b2075e94",
+    "07a267f9a8117a5a93126cfa9ec1244c",
+    "2b27c095e6cc88b792743d11cf2649c0",
+    "d09c9e6c58f4acbf699a40631444cd7f",
+    "af0608b16b70d1f420add2f86bbfffa1",
+    "f80b2322334de61616ae12e3001a2e17",
+    "cc0d4e08fcb6c8187e8e9778be6544a2",
+    "c99b84dbf0fe2d92723393b9442b345d",
+    "3f200b2d9a3966833214ca93e696b95d",
+    "12c5d9769abde1b96912ee851f90abdd",
+    "c6e6175f442ad0331220be4ebc17a40e",
+    "adc03149d1f7cab3783d5ee15a71ac2e",
+    "5c15e6ec7dbf66152b4035baf24d4c96",
+    "aae77e38384db37df04273bb589908d2",
+    "4051685f933878e9e48321bba22e5c3b",
+    "3254f56750e7b61d48878134b4887764",
+    "245d2f6032dbceee5b0b92205cca18e2",
+    "b6002017417e627f69cd1fa2e5778bde",
+    "d82f7bb8084c94a4f127631d50b323e3",
+    "7ea16fc0f896868ca6599cb7b2c54b1b",
+    "0140cb752507ca9ec3d152012c7f13dc",
+    "50537a28716c8e67af5454f14f1a31f9",
+    "f010d8415f7ee3527a71c183a94ac4f3",
+    "acb01846d6c2a879094673994a4546ed",
+    "f0cc5933c671efb055acff87fbfbaed2",
+    "2586a3d80970e12869bd08cfc2d96069",
+    "bde81b84cf41eede0de4d90734931158",
+    "c8db4050e403088c12271f8f34119113",
+    "313818a1d4d287bc4c5dfc8d2f12fb06",
+    "6364bcf343cfc327cb5efc89551fff1e",
+    "070bf2387d0f08077aeabca4b0bef910",
+    "f4bd64ffc96677075acc0b69db44e202",
+    "8787a2b3abb3537e5ebbd40fc1f88f06",
+    "6e5b0d7d64201cab5afabc4138292a1a",
+    "c3f7911dcd0add07e36a744b008fa429",
+    "3f7a26563e369636b80d9c7f0c8afa52",
+    "8c15cd9a771193c5b9280b6f7b9a9587",
+    "dc294fe0954124c33975cc860391dea4",
+    "eba8998a756f25288a655911ca0f4bd4",
+    "3b71cb30219c34693cec5cfec0c5ec98",
+    "8749f11fb5c1f838aee561cf0ef2f5cc",
+    "40825a634edba33cde578c7041aae64b",
+    "f7784a7cab4de033ca205985447a0d48",
+    "858cf4b274464d0ec9d207720f94eec7",
+    "0c2c4a83e77d594df2832db304f7b9b7",
+    "9e25a1e6c2b8fd70d9998748e9638a59",
+    "574dc5a7cabc17d357efc7f3eaebdf4d",
+    "b153fa452f6cae2f106dea5881c81deb",
+    "ed42f5f1aa20baa59b5cc139d53e8b84",
+    "2041af2b85e7d30ab9101553738cd68c",
+    "f180b51252eb79291b92532bfd84ac87",
+    "c4dab82ebe53698bf298face180ecf33",
+    "72e72860b3df8def25a254116b4f3e71",
+    "a88c7ef2e9ea9dc471de057ee9fede6a",
+    "8ca2e8cd634ac9c88652defa8d2fd397",
+    "3a80b4a322dd3c667aad53b941507e9d",
+    "3be0b9a89b61d8cba43d373e466b6bfd",
+    "413e44680665025a392b5b8b5237ff80",
+    "a87cf308d9f5227dbf93fb650f6932bf",
+    "e47ef63a660114ea107197aa615570f4",
+    "5a069ae410a3c9ff56fd4f4f70f32520",
+    "12c0beca55c5949be63ee9e769610ff5",
+    "90f745e7bd294dabb747a4f2c18e7e6f",
+    "f36b4c201bc9d75844ef35083c5d5646",
+    "8e4304579d49e5e853de6c0ea497aeb9",
+    "e1692712e7c2242934b8ac067810aef7",
+    "a485cb6e8aacf668bf8154ce9b7ef0a1",
+    "0b877b2374c9b4d788c0a821c21dfe17",
+    "5a64c28ef824e4dc86547070c8bf6f57",
+    "4a46a34cf36ca46cb21033a7b0b04e74",
+    "663b6a1edf1f3a4d99d81e940f224995",
+    "28e68aa9914d4f421e103091e9cd5d2d",
+    "fb75a1481ac9f21b09e3fd290d1baf83",
+    "597ddf75185ce30d31061dcb0f7a2282",
+    "e4af6f874877633c33edfa671e1fde53",
+    "8b03de030722da9aaab8b4ea67ad50f8",
+    "c444424a225e8804fb5a5523f554922e",
+    "791f4dbec0ec0849ec633bb0de222a3d",
+    "596239c8f2a19a91885620561ddd893b",
+    "d430653f86592ac504bae6724d625660",
+    "01a91612640bd08d0db5efa0c99b8f6d",
+    "94bbff9a080a94cf5321bc51f3e3c0cb",
+    "3415e60cf2a5685b58572ac90f172783",
+    "a9d59f2d79b07d1132720268f362dd38",
+    "52fbffb57601ac732de26b5aa33f91d6"
+  ]
+}
