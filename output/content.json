@@ -1,35 +1,35 @@
 {
-  "category": "الصحة والجسد",
+  "category": "الأرقام والوقت",
   "phrases": [
     {
-      "english": "I have a headache.",
-      "arabic": "أنا أشعر بصداع.",
-      "pronunciation": "Ana asha'ur bi sudaa'.",
-      "context": "Use this when you feel pain in your head."
+      "english": "What time is it right now?",
+      "arabic": "كم الساعة الآن؟",
+      "pronunciation": "Kam as-sa'a al-aan?",
+      "context": "Use this to ask for the current time."
     },
     {
-      "english": "I feel tired.",
-      "arabic": "أشعر بالتعب.",
-      "pronunciation": "Asha'ur bil ta'ab.",
-      "context": "Say this when you need rest."
+      "english": "The meeting is scheduled for three o'clock in the afternoon.",
+      "arabic": "الاجتماع مقرر في الساعة الثالثة بعد الظهر.",
+      "pronunciation": "Al-ijtimaa' muqarrar fi as-sa'a ath-thalitha ba'd adh-dhuhr.",
+      "context": "Use this to state a specific appointment time."
     },
     {
-      "english": "I am allergic to peanuts.",
-      "arabic": "لدي حساسية من الفول السوداني.",
-      "pronunciation": "Ladai hasasiyya min al-foul as-soudani.",
-      "context": "Inform others about this food allergy."
+      "english": "I need two apples and one banana from the market.",
+      "arabic": "أحتاج تفاحتين وموزة واحدة من السوق.",
+      "pronunciation": "Ahtaj tuffahtain wa mawzah wahida min as-souq.",
+      "context": "Use this when you want to buy a specific quantity of items."
     },
     {
-      "english": "My stomach hurts.",
-      "arabic": "معدتي تؤلمني.",
-      "pronunciation": "Ma'idati tu'limuni.",
-      "context": "Use this when you have stomach pain."
+      "english": "My birthday is on the fifth of May.",
+      "arabic": "عيد ميلادي في الخامس من مايو.",
+      "pronunciation": "Eid miladi fi al-khamis min Mayo.",
+      "context": "Use this to tell someone your birthday."
     },
     {
-      "english": "I need to see a doctor.",
-      "arabic": "أحتاج إلى رؤية طبيب.",
-      "pronunciation": "Ahtaj ila ru'yat tabeeb.",
-      "context": "Say this when you require medical attention."
+      "english": "Can you repeat that number please?",
+      "arabic": "هل يمكنك تكرار هذا الرقم من فضلك؟",
+      "pronunciation": "Hal yumkinuka tikrar hadha ar-raqm min fadlik?",
+      "context": "Use this when you didn't catch a number."
     }
   ],
   "total": 5
