@@ -1,35 +1,35 @@
 {
-  "category": "الأرقام والوقت",
+  "category": "العواطف والمشاعر",
   "phrases": [
     {
-      "english": "What time is it right now?",
-      "arabic": "كم الساعة الآن؟",
-      "pronunciation": "Kam as-sa'a al-aan?",
-      "context": "Use this to ask for the current time."
+      "english": "I am very happy today.",
+      "arabic": "أنا سعيد جدًا اليوم.",
+      "pronunciation": "Ana sa'eed jiddan al-yawm.",
+      "context": "Use this when you feel a strong sense of joy."
     },
     {
-      "english": "The meeting is scheduled for three o'clock in the afternoon.",
-      "arabic": "الاجتماع مقرر في الساعة الثالثة بعد الظهر.",
-      "pronunciation": "Al-ijtimaa' muqarrar fi as-sa'a ath-thalitha ba'd adh-dhuhr.",
-      "context": "Use this to state a specific appointment time."
+      "english": "He looks sad because he misses his family.",
+      "arabic": "يبدو حزينًا لأنه يشتاق لعائلته.",
+      "pronunciation": "Yabdoo hazeenan li'annahu yashtaaqu li'aa'ilatih.",
+      "context": "Describe someone's visible unhappiness and its cause."
     },
     {
-      "english": "I need two apples and one banana from the market.",
-      "arabic": "أحتاج تفاحتين وموزة واحدة من السوق.",
-      "pronunciation": "Ahtaj tuffahtain wa mawzah wahida min as-souq.",
-      "context": "Use this when you want to buy a specific quantity of items."
+      "english": "She is angry about the delayed train.",
+      "arabic": "إنها غاضبة بسبب تأخر القطار.",
+      "pronunciation": "Innaha ghaadibah bisabab ta'akhur al-qitar.",
+      "context": "Explain someone's frustration and the reason for it."
     },
     {
-      "english": "My birthday is on the fifth of May.",
-      "arabic": "عيد ميلادي في الخامس من مايو.",
-      "pronunciation": "Eid miladi fi al-khamis min Mayo.",
-      "context": "Use this to tell someone your birthday."
+      "english": "I feel scared of the loud noise.",
+      "arabic": "أشعر بالخوف من الضوضاء العالية.",
+      "pronunciation": "Ash'uru bil-khawfi min al-dawdaa' al-'aaliyah.",
+      "context": "Express your fear in response to a startling sound."
     },
     {
-      "english": "Can you repeat that number please?",
-      "arabic": "هل يمكنك تكرار هذا الرقم من فضلك؟",
-      "pronunciation": "Hal yumkinuka tikrar hadha ar-raqm min fadlik?",
-      "context": "Use this when you didn't catch a number."
+      "english": "We are excited for our upcoming vacation.",
+      "arabic": "نحن متحمسون لعطلتنا القادمة.",
+      "pronunciation": "Nahnu mutahammisoon li'utlatina al-qaadimah.",
+      "context": "Share your anticipation for a future enjoyable event."
     }
   ],
   "total": 5
