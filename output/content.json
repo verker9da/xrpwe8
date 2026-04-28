@@ -1,35 +1,35 @@
 {
-  "category": "الحكمة",
+  "category": "التسوق",
   "phrases": [
     {
-      "english": "Patience is a virtue that brings comfort.",
-      "arabic": "الصبر مفتاح الفرج.",
-      "pronunciation": "As-sabru miftaah-ul-faraj.",
-      "context": "Use this when encouraging someone to stay calm during a difficult situation."
+      "english": "How much does this cost?",
+      "arabic": "بكم هذا؟",
+      "pronunciation": "Bikam hatha?",
+      "context": "Use this when you want to ask the price of an item."
     },
     {
-      "english": "Actions speak louder than words.",
-      "arabic": "الأفعال أبلغ من الأقوال.",
-      "pronunciation": "Al-af'aalu ablaghu min al-aqwaal.",
-      "context": "Say this when someone's deeds are more meaningful than what they say."
+      "english": "I want to buy this shirt.",
+      "arabic": "أريد شراء هذه القميص.",
+      "pronunciation": "Ureed shiraa' hathihi al-qamees.",
+      "context": "Use this when you have decided to purchase a specific item."
     },
     {
-      "english": "Every beginning is difficult.",
-      "arabic": "كل بداية صعبة.",
-      "pronunciation": "Kullu bidaayati-n sa'bah.",
-      "context": "Use this to acknowledge the challenges when starting something new."
+      "english": "Do you have this in a smaller size?",
+      "arabic": "هل لديكم هذا بمقاس أصغر؟",
+      "pronunciation": "Hal ladaykum hatha bimqaas asghar?",
+      "context": "Use this when the item is too big and you need a different size."
     },
     {
-      "english": "Knowledge is power.",
-      "arabic": "العلم نور.",
-      "pronunciation": "Al-'ilmu noor.",
-      "context": "This phrase emphasizes the importance and strength that comes from learning."
+      "english": "Can I pay with a credit card?",
+      "arabic": "هل يمكنني الدفع ببطاقة الائتمان؟",
+      "pronunciation": "Hal yumkinuni ad-daf' bibitaaqat al-i'timaan?",
+      "context": "Use this to inquire about payment methods."
     },
     {
-      "english": "Opportunity knocks but once.",
-      "arabic": "الفرصة تأتي مرة واحدة.",
-      "pronunciation": "Al-fursatu ta'ti marratan waahidah.",
-      "context": "Use this to urge someone to seize a good chance when it appears."
+      "english": "Where is the changing room?",
+      "arabic": "أين غرفة القياس؟",
+      "pronunciation": "Ayna ghurfat al-qiyaas?",
+      "context": "Use this when you need to try on clothes before buying."
     }
   ],
   "total": 5
