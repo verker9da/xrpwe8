@@ -1,35 +1,35 @@
 {
-  "category": "العواطف والمشاعر",
+  "category": "الحكمة",
   "phrases": [
     {
-      "english": "I am very happy today.",
-      "arabic": "أنا سعيد جدًا اليوم.",
-      "pronunciation": "Ana sa'eed jiddan al-yawm.",
-      "context": "Use this when you feel a strong sense of joy."
+      "english": "Patience is a virtue that brings comfort.",
+      "arabic": "الصبر مفتاح الفرج.",
+      "pronunciation": "As-sabru miftaah-ul-faraj.",
+      "context": "Use this when encouraging someone to stay calm during a difficult situation."
     },
     {
-      "english": "He looks sad because he misses his family.",
-      "arabic": "يبدو حزينًا لأنه يشتاق لعائلته.",
-      "pronunciation": "Yabdoo hazeenan li'annahu yashtaaqu li'aa'ilatih.",
-      "context": "Describe someone's visible unhappiness and its cause."
+      "english": "Actions speak louder than words.",
+      "arabic": "الأفعال أبلغ من الأقوال.",
+      "pronunciation": "Al-af'aalu ablaghu min al-aqwaal.",
+      "context": "Say this when someone's deeds are more meaningful than what they say."
     },
     {
-      "english": "She is angry about the delayed train.",
-      "arabic": "إنها غاضبة بسبب تأخر القطار.",
-      "pronunciation": "Innaha ghaadibah bisabab ta'akhur al-qitar.",
-      "context": "Explain someone's frustration and the reason for it."
+      "english": "Every beginning is difficult.",
+      "arabic": "كل بداية صعبة.",
+      "pronunciation": "Kullu bidaayati-n sa'bah.",
+      "context": "Use this to acknowledge the challenges when starting something new."
     },
     {
-      "english": "I feel scared of the loud noise.",
-      "arabic": "أشعر بالخوف من الضوضاء العالية.",
-      "pronunciation": "Ash'uru bil-khawfi min al-dawdaa' al-'aaliyah.",
-      "context": "Express your fear in response to a startling sound."
+      "english": "Knowledge is power.",
+      "arabic": "العلم نور.",
+      "pronunciation": "Al-'ilmu noor.",
+      "context": "This phrase emphasizes the importance and strength that comes from learning."
     },
     {
-      "english": "We are excited for our upcoming vacation.",
-      "arabic": "نحن متحمسون لعطلتنا القادمة.",
-      "pronunciation": "Nahnu mutahammisoon li'utlatina al-qaadimah.",
-      "context": "Share your anticipation for a future enjoyable event."
+      "english": "Opportunity knocks but once.",
+      "arabic": "الفرصة تأتي مرة واحدة.",
+      "pronunciation": "Al-fursatu ta'ti marratan waahidah.",
+      "context": "Use this to urge someone to seize a good chance when it appears."
     }
   ],
   "total": 5
