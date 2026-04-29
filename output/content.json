@@ -1,35 +1,35 @@
 {
-  "category": "الألوان والأوصاف",
+  "category": "الطعام والطعام",
   "phrases": [
     {
-      "english": "This shirt is a beautiful blue color.",
-      "arabic": "هذا القميص لونه أزرق جميل.",
-      "pronunciation": "Hadha al-qamees lawnuhu azraq jameel.",
-      "context": "Use this to compliment clothing or other items you find visually appealing."
+      "english": "I would like to order a plate of grilled chicken, please.",
+      "arabic": "أرغب في طلب طبق دجاج مشوي، من فضلك.",
+      "pronunciation": "Arghab fi talab tabaq dajaj mashwi, min fadlik.",
+      "context": "Use this when ordering food at a restaurant."
     },
     {
-      "english": "The car is black and very fast.",
-      "arabic": "السيارة سوداء وسريعة جداً.",
-      "pronunciation": "Al-sayyarah sawda' wa saree'ah jiddan.",
-      "context": "This phrase is useful for describing vehicles and their performance."
+      "english": "This food is very delicious, thank you.",
+      "arabic": "هذا الطعام لذيذ جداً، شكراً لكم.",
+      "pronunciation": "Hatha at-ta'am ladheedh jiddan, shukran lakum.",
+      "context": "Say this to compliment the chef or the server on the meal."
     },
     {
-      "english": "I like the green color of the trees.",
-      "arabic": "أحب اللون الأخضر للأشجار.",
-      "pronunciation": "Uhibbu al-lawn al-akhdar lil-ashjar.",
-      "context": "Employ this when you want to express appreciation for nature's colors."
+      "english": "Can I have the bill, please?",
+      "arabic": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
+      "pronunciation": "Hal yumkinuni al-husool ala al-fatoorah, min fadlik?",
+      "context": "Use this to ask for the check at the end of your meal."
     },
     {
-      "english": "Her dress is a lovely shade of red.",
-      "arabic": "فستانها درجة جميلة من اللون الأحمر.",
-      "pronunciation": "Fustanuhā darajah jameelah min al-lawn al-ahmar.",
-      "context": "This is perfect for describing a person's clothing with a specific color."
+      "english": "I am allergic to peanuts.",
+      "arabic": "أنا لدي حساسية من الفول السوداني.",
+      "pronunciation": "Ana ladayya hasasiyya min al-foul as-sudani.",
+      "context": "Inform your server about any food allergies before ordering."
     },
     {
-      "english": "The sky is bright yellow during sunset.",
-      "arabic": "السماء صفراء لامعة وقت الغروب.",
-      "pronunciation": "Al-sama' safra' laami'ah waqt al-ghuroob.",
-      "context": "Use this to describe natural phenomena and atmospheric conditions."
+      "english": "What is the specialty of the house?",
+      "arabic": "ما هو تخصص المطعم؟",
+      "pronunciation": "Ma huwa takhassus al-mat'am?",
+      "context": "Ask this to inquire about the restaurant's signature dishes."
     }
   ],
   "total": 5

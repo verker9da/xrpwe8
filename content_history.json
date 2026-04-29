@@ -100,13 +100,13 @@
     "what are your working hours?",
     "this project requires a lot of effort.",
     "i need to schedule a meeting with the manager.",
-    "our company has a great team."
+    "our company has a great team.",
+    "i would like to order a plate of grilled chicken, please.",
+    "this food is very delicious, thank you.",
+    "can i have the bill, please?",
+    "what is the specialty of the house?"
   ],
   "used_categories": [
-    {
-      "category": "الاتجاهات",
-      "timestamp": "2026-03-20T20:01:02.589204"
-    },
     {
       "category": "العواطف والمشاعر",
       "timestamp": "2026-03-21T04:54:39.307623"
@@ -302,6 +302,10 @@
     {
       "category": "الألوان والأوصاف",
       "timestamp": "2026-04-29T07:53:13.836765"
+    },
+    {
+      "category": "الطعام والطعام",
+      "timestamp": "2026-04-29T16:05:59.638318"
     }
   ],
   "phrase_hashes": [
@@ -405,6 +409,10 @@
     "94bbff9a080a94cf5321bc51f3e3c0cb",
     "3415e60cf2a5685b58572ac90f172783",
     "a9d59f2d79b07d1132720268f362dd38",
-    "52fbffb57601ac732de26b5aa33f91d6"
+    "52fbffb57601ac732de26b5aa33f91d6",
+    "fc4aa5e06798c29e041bb46bbc9b46ce",
+    "8245a8587aaa4d47232bb0cf0dabec23",
+    "d5984b9c6ae553906b9d447468514dd8",
+    "160ff1b26dd9310f2898e4ca366c44f2"
   ]
 }
