@@ -128,13 +128,12 @@
     "i am motivated to practice speaking with native speakers.",
     "this is a great opportunity to improve my arabic skills.",
     "i am determined to become fluent in arabic.",
-    "i find learning arabic very rewarding."
+    "i find learning arabic very rewarding.",
+    "my favorite hobby is playing football with my friends.",
+    "i like listening to music, especially arabic music.",
+    "i love to travel and explore new places."
   ],
   "used_categories": [
-    {
-      "category": "الصحة والجسد",
-      "timestamp": "2026-03-22T19:46:13.683680"
-    },
     {
       "category": "النجاح",
       "timestamp": "2026-03-23T05:48:04.314999"
@@ -330,6 +329,10 @@
     {
       "category": "الدافع",
       "timestamp": "2026-05-01T22:06:33.356528"
+    },
+    {
+      "category": "الهوايات والأنشطة",
+      "timestamp": "2026-05-02T06:32:07.684107"
     }
   ],
   "phrase_hashes": [
@@ -461,6 +464,9 @@
     "1507459012325e3599ce603d31762329",
     "93c198061fe32887876e9096b423dc5e",
     "c87c00596db130fbda952cc0da31e919",
-    "3c5088459249615de42aa7939c187e2d"
+    "3c5088459249615de42aa7939c187e2d",
+    "decc05262883960c1912149a9bb4cf75",
+    "ca9d226282c1f701e508213e04243193",
+    "64f7b3728a19b6a062e92ecc147ac6d3"
   ]
 }
