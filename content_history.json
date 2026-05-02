@@ -133,13 +133,13 @@
     "i like listening to music, especially arabic music.",
     "i love to travel and explore new places.",
     "i would like to order a falafel sandwich, please.",
-    "where is the nearest supermarket?"
+    "where is the nearest supermarket?",
+    "where is the nearest train station, please?",
+    "how do i get to the city center?",
+    "can you show me on the map?",
+    "turn left at the next intersection."
   ],
   "used_categories": [
-    {
-      "category": "الألوان والأوصاف",
-      "timestamp": "2026-03-23T05:48:48.585986"
-    },
     {
       "category": "العائلة والعلاقات",
       "timestamp": "2026-03-23T11:34:11.855756"
@@ -335,6 +335,10 @@
     {
       "category": "الطعام والطعام",
       "timestamp": "2026-05-02T11:34:01.654971"
+    },
+    {
+      "category": "الاتجاهات",
+      "timestamp": "2026-05-02T16:33:13.130609"
     }
   ],
   "phrase_hashes": [
@@ -471,6 +475,10 @@
     "ca9d226282c1f701e508213e04243193",
     "64f7b3728a19b6a062e92ecc147ac6d3",
     "ae04f79dc3acf4e221ced8badbc523a6",
-    "e42afff1718a6e067cbe819a5eadf3a5"
+    "e42afff1718a6e067cbe819a5eadf3a5",
+    "d91e8cb198d23cf9f2b6dfadd4397fe3",
+    "c4ed47e80564f63e0b27880b53b1e951",
+    "2273c562cdb9002e517ae052c543fb06",
+    "6cbf5b97ebff5503515eaec63169b98e"
   ]
 }
