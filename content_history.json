@@ -137,13 +137,13 @@
     "where is the nearest train station, please?",
     "how do i get to the city center?",
     "can you show me on the map?",
-    "turn left at the next intersection."
+    "turn left at the next intersection.",
+    "i like the bright red car.",
+    "the dark green walls look very elegant.",
+    "his eyes are a deep brown color.",
+    "she wore a dress that was light pink."
   ],
   "used_categories": [
-    {
-      "category": "العائلة والعلاقات",
-      "timestamp": "2026-03-23T11:34:11.855756"
-    },
     {
       "category": "السعادة",
       "timestamp": "2026-03-23T17:10:53.083560"
@@ -339,6 +339,10 @@
     {
       "category": "الاتجاهات",
       "timestamp": "2026-05-02T16:33:13.130609"
+    },
+    {
+      "category": "الألوان والأوصاف",
+      "timestamp": "2026-05-02T21:12:04.992492"
     }
   ],
   "phrase_hashes": [
@@ -479,6 +483,10 @@
     "d91e8cb198d23cf9f2b6dfadd4397fe3",
     "c4ed47e80564f63e0b27880b53b1e951",
     "2273c562cdb9002e517ae052c543fb06",
-    "6cbf5b97ebff5503515eaec63169b98e"
+    "6cbf5b97ebff5503515eaec63169b98e",
+    "81bcf4a7a753b0a5568d45ffea1fd944",
+    "1ddbff143182a5f89c930de9682e7718",
+    "30968c9e28d31298eb6b0dd11dd0dbbf",
+    "101456ca3af519fceaa04ca6d16ed41e"
   ]
 }
