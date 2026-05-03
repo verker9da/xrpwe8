@@ -141,13 +141,11 @@
     "i like the bright red car.",
     "the dark green walls look very elegant.",
     "his eyes are a deep brown color.",
-    "she wore a dress that was light pink."
+    "she wore a dress that was light pink.",
+    "i am feeling tired.",
+    "i am allergic to cats."
   ],
   "used_categories": [
-    {
-      "category": "السعادة",
-      "timestamp": "2026-03-23T17:10:53.083560"
-    },
     {
       "category": "التسوق",
       "timestamp": "2026-03-23T20:58:19.010101"
@@ -343,6 +341,10 @@
     {
       "category": "الألوان والأوصاف",
       "timestamp": "2026-05-02T21:12:04.992492"
+    },
+    {
+      "category": "الصحة والجسد",
+      "timestamp": "2026-05-03T07:31:07.121031"
     }
   ],
   "phrase_hashes": [
@@ -487,6 +489,8 @@
     "81bcf4a7a753b0a5568d45ffea1fd944",
     "1ddbff143182a5f89c930de9682e7718",
     "30968c9e28d31298eb6b0dd11dd0dbbf",
-    "101456ca3af519fceaa04ca6d16ed41e"
+    "101456ca3af519fceaa04ca6d16ed41e",
+    "9d030832c7b632d330a60f019ec036e6",
+    "73aaaab64f27800e63891977e7796bed"
   ]
 }

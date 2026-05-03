@@ -1,35 +1,35 @@
 {
-  "category": "الألوان والأوصاف",
+  "category": "الصحة والجسد",
   "phrases": [
     {
-      "english": "This shirt is a beautiful blue color.",
-      "arabic": "هذا القميص لونه أزرق جميل.",
-      "pronunciation": "Hatha al-qamees lawnuhu azraq jameel.",
-      "context": "Use this to describe the color of an item of clothing."
+      "english": "I have a headache.",
+      "arabic": "أنا أشعر بصداع.",
+      "pronunciation": "Ana ash'ur bi-sudaa'.",
+      "context": "Use this when you feel pain in your head."
     },
     {
-      "english": "I like the bright red car.",
-      "arabic": "أنا أحب السيارة الحمراء الزاهية.",
-      "pronunciation": "Ana uhibb al-sayyarah al-hamra' al-zahiyah.",
-      "context": "Use this to describe a vividly colored object."
+      "english": "I am feeling tired.",
+      "arabic": "أنا أشعر بالتعب.",
+      "pronunciation": "Ana ash'ur bi-ta'ab.",
+      "context": "Say this when you lack energy or need rest."
     },
     {
-      "english": "The dark green walls look very elegant.",
-      "arabic": "الجدران خضراء داكنة تبدو أنيقة جداً.",
-      "pronunciation": "Al-judran khadra' dakinah tabdu aniqah jiddan.",
-      "context": "Use this when describing sophisticated or subdued colors."
+      "english": "I am allergic to cats.",
+      "arabic": "أنا لدي حساسية من القطط.",
+      "pronunciation": "Ana ladayya hasasiyya min al-qitat.",
+      "context": "Inform others about this specific allergy."
     },
     {
-      "english": "His eyes are a deep brown color.",
-      "arabic": "عيناه لونها بني غامق.",
-      "pronunciation": "Aynahu lawnuha bunni ghamiq.",
-      "context": "Use this to describe the shade of someone's eyes."
+      "english": "I need to see a doctor.",
+      "arabic": "أنا بحاجة لرؤية طبيب.",
+      "pronunciation": "Ana bi-haja li-ru'yat tabeeb.",
+      "context": "Use this when you require medical attention."
     },
     {
-      "english": "She wore a dress that was light pink.",
-      "arabic": "ارتدت فستاناً لونه وردي فاتح.",
-      "pronunciation": "Irtadat fustanan lawnuhu wardi fatih.",
-      "context": "Use this to describe a pale or soft shade of color."
+      "english": "My stomach hurts.",
+      "arabic": "معدتي تؤلمني.",
+      "pronunciation": "Ma'idati tu'limuni.",
+      "context": "Indicate pain or discomfort in your abdomen."
     }
   ],
   "total": 5
