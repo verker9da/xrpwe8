@@ -1,35 +1,35 @@
 {
-  "category": "العمل والأعمال",
+  "category": "الحب",
   "phrases": [
     {
-      "english": "I am looking for a new job opportunity.",
-      "arabic": "أنا أبحث عن فرصة عمل جديدة.",
-      "pronunciation": "Ana abḥath 'an furṣa 'amal jadīdah.",
-      "context": "Use this when you are actively seeking employment."
+      "english": "I love you very much.",
+      "arabic": "أحبك كثيراً.",
+      "pronunciation": "Uhibbuka katheeran.",
+      "context": "This is a strong expression of love for a romantic partner or close family member."
     },
     {
-      "english": "Can you please send me the company's annual report?",
-      "arabic": "هل يمكنك من فضلك إرسال التقرير السنوي للشركة لي؟",
-      "pronunciation": "Hal yumkinuka min faḍlik irsāl al-taqrīr al-sanawī lil-sharika lī?",
-      "context": "This is useful for requesting important business documents."
+      "english": "You are very beautiful.",
+      "arabic": "أنتِ جميلة جداً.",
+      "pronunciation": "Anti jameela jiddan.",
+      "context": "Use this to compliment a woman's appearance sincerely."
     },
     {
-      "english": "I need to schedule a meeting with the marketing team.",
-      "arabic": "أحتاج إلى تحديد موعد اجتماع مع فريق التسويق.",
-      "pronunciation": "Aḥtāju ilā taḥdīd maw'id ijtima' ma' farīq al-taswīq.",
-      "context": "Say this when you want to arrange a group discussion."
+      "english": "My heart beats for you.",
+      "arabic": "قلبي ينبض لك.",
+      "pronunciation": "Qalbi yanbidhu lak.",
+      "context": "A poetic and romantic way to express deep affection."
     },
     {
-      "english": "What is your company's main product?",
-      "arabic": "ما هو المنتج الرئيسي لشركتكم؟",
-      "pronunciation": "Mā huwa al-muntaj al-ra'īsī li-sharikatukum?",
-      "context": "Ask this to inquire about their core business offerings."
+      "english": "I miss you a lot.",
+      "arabic": "أفتقدك كثيراً.",
+      "pronunciation": "Aftaqiduka katheeran.",
+      "context": "Use this when you haven't seen someone you care about in a while."
     },
     {
-      "english": "I am available for a phone interview tomorrow.",
-      "arabic": "أنا متاح لإجراء مقابلة هاتفية غدًا.",
-      "pronunciation": "Ana mutāḥ li-ijrā' muqābalah hātifiyyah ghadan.",
-      "context": "Use this to confirm your availability for a job interview."
+      "english": "You are my everything.",
+      "arabic": "أنت كل شيء لي.",
+      "pronunciation": "Anta kullu shay'in li.",
+      "context": "This phrase conveys that the person is the most important thing in your life."
     }
   ],
   "total": 5
