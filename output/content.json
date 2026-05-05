@@ -1,35 +1,35 @@
 {
-  "category": "الدافع",
+  "category": "الطقس",
   "phrases": [
     {
-      "english": "I want to learn Arabic because it is the language of the Quran.",
-      "arabic": "أريد أن أتعلم العربية لأنها لغة القرآن.",
-      "pronunciation": "Ureed an ata'allam al-'arabiyya li'annaha lughat al-Qur'an.",
-      "context": "To state your primary motivation for learning Arabic."
+      "english": "What is the weather like today?",
+      "arabic": "كيف حال الطقس اليوم؟",
+      "pronunciation": "kayf hal al-taqs al-yawm?",
+      "context": "Use this when you want to inquire about the current weather conditions."
     },
     {
-      "english": "I am motivated to practice speaking with native speakers.",
-      "arabic": "أنا متحمس لممارسة التحدث مع الناطقين بها.",
-      "pronunciation": "Ana mutahammis limumarasat at-tahadduth ma'a an-natiqeen biha.",
-      "context": "To express your eagerness to engage in conversation."
+      "english": "It is very hot outside.",
+      "arabic": "الجو حار جداً في الخارج.",
+      "pronunciation": "al-jaww haar jiddan fil kharij.",
+      "context": "Say this when the temperature is high and it feels very warm."
     },
     {
-      "english": "This is a great opportunity to improve my Arabic skills.",
-      "arabic": "هذه فرصة رائعة لتحسين مهاراتي في اللغة العربية.",
-      "pronunciation": "Hadhihi fursa raa'i'a litahseen maharati fil-lugha al-'arabiyya.",
-      "context": "To acknowledge a beneficial situation for language development."
+      "english": "It is cold and it is snowing.",
+      "arabic": "الجو بارد ويتساقط الثلج.",
+      "pronunciation": "al-jaww baarid wa yatasāqat al-thalj.",
+      "context": "Use this to describe a cold day with snowfall."
     },
     {
-      "english": "I am determined to become fluent in Arabic.",
-      "arabic": "أنا مصمم على أن أصبح طليقًا في اللغة العربية.",
-      "pronunciation": "Ana musammam 'ala an usbih taliiqan fil-lugha al-'arabiyya.",
-      "context": "To declare your strong resolve to achieve fluency."
+      "english": "It looks like it will rain soon.",
+      "arabic": "يبدو أنه ستمطر قريباً.",
+      "pronunciation": "yabdu annahu satumtir qareeban.",
+      "context": "This phrase is useful when you observe signs of impending rain."
     },
     {
-      "english": "I find learning Arabic very rewarding.",
-      "arabic": "أجد تعلم اللغة العربية مجزيًا للغاية.",
-      "pronunciation": "Ajid ta'allum al-lugha al-'arabiyya mujziyan lil-ghaya.",
-      "context": "To share your positive feelings about the learning process."
+      "english": "The wind is very strong today.",
+      "arabic": "الرياح قوية جداً اليوم.",
+      "pronunciation": "al-riyah qawiyyah jiddan al-yawm.",
+      "context": "Utter this when there is a powerful breeze or gale."
     }
   ],
   "total": 5
