@@ -154,13 +154,13 @@
     "my father works in a bank and he is very smart.",
     "i have one brother and two sisters, and we are very close.",
     "my grandmother loves to cook traditional food.",
-    "my cousin is getting married next month."
+    "my cousin is getting married next month.",
+    "i feel a little sad.",
+    "i am angry because of the delay.",
+    "she is very excited about the trip.",
+    "he is afraid of spiders."
   ],
   "used_categories": [
-    {
-      "category": "السعادة",
-      "timestamp": "2026-03-25T17:39:12.981975"
-    },
     {
       "category": "النجاح",
       "timestamp": "2026-03-25T20:57:54.647106"
@@ -356,6 +356,10 @@
     {
       "category": "الطقس",
       "timestamp": "2026-05-05T12:24:38.482135"
+    },
+    {
+      "category": "العواطف والمشاعر",
+      "timestamp": "2026-05-05T18:56:42.588000"
     }
   ],
   "phrase_hashes": [
@@ -513,6 +517,10 @@
     "a6f0262084878e6452b627f6f72fa5d3",
     "f8e72625080d81d7aefa650612072b20",
     "496a7100421ba3fe060cf2d675c66413",
-    "47ecd1f8b98abffaf1351efc8665f3a7"
+    "47ecd1f8b98abffaf1351efc8665f3a7",
+    "f1b5d2f72f827965f3a900e002f3c5f7",
+    "8bdd0a3e2f8beb37af41fd24c2d9ebda",
+    "8cabda16c0b921856122b67fd4ea86c3",
+    "857aa420d8f273cc71e8f0fec6a70fc8"
   ]
 }

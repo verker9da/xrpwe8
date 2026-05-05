@@ -1,35 +1,35 @@
 {
-  "category": "الطقس",
+  "category": "العواطف والمشاعر",
   "phrases": [
     {
-      "english": "What is the weather like today?",
-      "arabic": "كيف حال الطقس اليوم؟",
-      "pronunciation": "kayf hal al-taqs al-yawm?",
-      "context": "Use this when you want to inquire about the current weather conditions."
+      "english": "I am very happy today.",
+      "arabic": "أنا سعيد جدًا اليوم.",
+      "pronunciation": "Ana sa'eed jiddan al-yawm.",
+      "context": "Use this when you feel joyful or pleased."
     },
     {
-      "english": "It is very hot outside.",
-      "arabic": "الجو حار جداً في الخارج.",
-      "pronunciation": "al-jaww haar jiddan fil kharij.",
-      "context": "Say this when the temperature is high and it feels very warm."
+      "english": "I feel a little sad.",
+      "arabic": "أشعر ببعض الحزن.",
+      "pronunciation": "Ash'ur bi-ba'd al-huzn.",
+      "context": "Use this when you are experiencing a mild sense of unhappiness."
     },
     {
-      "english": "It is cold and it is snowing.",
-      "arabic": "الجو بارد ويتساقط الثلج.",
-      "pronunciation": "al-jaww baarid wa yatasāqat al-thalj.",
-      "context": "Use this to describe a cold day with snowfall."
+      "english": "I am angry because of the delay.",
+      "arabic": "أنا غاضب بسبب التأخير.",
+      "pronunciation": "Ana ghadib bi-sabab at-ta'kheer.",
+      "context": "Use this to express frustration or annoyance."
     },
     {
-      "english": "It looks like it will rain soon.",
-      "arabic": "يبدو أنه ستمطر قريباً.",
-      "pronunciation": "yabdu annahu satumtir qareeban.",
-      "context": "This phrase is useful when you observe signs of impending rain."
+      "english": "She is very excited about the trip.",
+      "arabic": "هي متحمسة جدًا للرحلة.",
+      "pronunciation": "Hiya mutahammisa jiddan lir-rihla.",
+      "context": "Use this to describe someone's enthusiasm for an event."
     },
     {
-      "english": "The wind is very strong today.",
-      "arabic": "الرياح قوية جداً اليوم.",
-      "pronunciation": "al-riyah qawiyyah jiddan al-yawm.",
-      "context": "Utter this when there is a powerful breeze or gale."
+      "english": "He is afraid of spiders.",
+      "arabic": "هو يخاف من العناكب.",
+      "pronunciation": "Huwa yakhaf min al-'anakeb.",
+      "context": "Use this to state someone's phobia or fear."
     }
   ],
   "total": 5
