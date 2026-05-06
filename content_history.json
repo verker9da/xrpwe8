@@ -158,13 +158,13 @@
     "i feel a little sad.",
     "i am angry because of the delay.",
     "she is very excited about the trip.",
-    "he is afraid of spiders."
+    "he is afraid of spiders.",
+    "where is the nearest restroom?",
+    "i would like a cup of coffee, please.",
+    "can you help me, please?",
+    "i don't understand."
   ],
   "used_categories": [
-    {
-      "category": "العائلة والعلاقات",
-      "timestamp": "2026-03-26T05:51:37.956624"
-    },
     {
       "category": "الحب",
       "timestamp": "2026-03-26T11:39:02.260032"
@@ -360,6 +360,10 @@
     {
       "category": "الطعام والطعام",
       "timestamp": "2026-05-05T22:40:04.004887"
+    },
+    {
+      "category": "أساسيات السفر",
+      "timestamp": "2026-05-06T16:13:04.364000"
     }
   ],
   "phrase_hashes": [
@@ -521,6 +525,10 @@
     "f1b5d2f72f827965f3a900e002f3c5f7",
     "8bdd0a3e2f8beb37af41fd24c2d9ebda",
     "8cabda16c0b921856122b67fd4ea86c3",
-    "857aa420d8f273cc71e8f0fec6a70fc8"
+    "857aa420d8f273cc71e8f0fec6a70fc8",
+    "afdcaf26876544f1980d847523588a7a",
+    "2d4143311492b7826e5fa03513467f5c",
+    "4e16ff2b9fe50bf808b0b5584513b186",
+    "708bbe2c109c6675e0a86e4fc1417eb1"
   ]
 }
