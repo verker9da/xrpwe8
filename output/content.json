@@ -1,35 +1,35 @@
 {
-  "category": "الحكمة",
+  "category": "الأرقام والوقت",
   "phrases": [
     {
-      "english": "Patience is the key to relief.",
-      "arabic": "الصبر مفتاح الفرج.",
-      "pronunciation": "As-sabru miftaah al-faraj.",
-      "context": "Use this when encouraging someone facing a difficult situation."
+      "english": "What time is it right now?",
+      "arabic": "كم الساعة الآن؟",
+      "pronunciation": "Kam al-saa'ah al-aan?",
+      "context": "Use this to ask for the current time in any situation."
     },
     {
-      "english": "Learn from yesterday, live for today, hope for tomorrow.",
-      "arabic": "تعلم من الأمس، عش لليوم، أمل في الغد.",
-      "pronunciation": "Ta'allam min al-amsi, 'ish lil-yawm, amal fil-ghad.",
-      "context": "This is a motivational phrase about embracing life's journey."
+      "english": "The meeting is at three o'clock in the afternoon.",
+      "arabic": "الاجتماع في الساعة الثالثة بعد الظهر.",
+      "pronunciation": "Al-ijtimaa' fi al-saa'ah al-thaalithah ba'd al-dhuhr.",
+      "context": "This phrase is useful for stating scheduled appointments or events."
     },
     {
-      "english": "A little bit of knowledge is a dangerous thing.",
-      "arabic": "قليل العلم خطر.",
-      "pronunciation": "Qaleel al-'ilm khatar.",
-      "context": "Said when someone thinks they know a lot but actually knows very little."
+      "english": "I need to leave at seven thirty in the morning.",
+      "arabic": "أحتاج أن أغادر في الساعة السابعة والنصف صباحاً.",
+      "pronunciation": "Ahtaaj an ughaadir fi al-saa'ah al-saabi'ah wal-nisf sabaahan.",
+      "context": "Use this to inform someone about your departure time."
     },
     {
-      "english": "The pen is mightier than the sword.",
-      "arabic": "القلم أقوى من السيف.",
-      "pronunciation": "Al-qalamu aqwaa min as-saif.",
-      "context": "This phrase highlights the power of communication over violence."
+      "english": "My birthday is on the fifth of June.",
+      "arabic": "عيد ميلادي في الخامس من يونيو.",
+      "pronunciation": "Eid meelaadi fi al-khaamis min Yunyuu.",
+      "context": "This is how you state your date of birth or any date."
     },
     {
-      "english": "Every cloud has a silver lining.",
-      "arabic": "لكل محنة منحة.",
-      "pronunciation": "Li-kulli mihnah min'hah.",
-      "context": "Use this to remind someone that good can come from bad situations."
+      "english": "There are twenty-five students in the class.",
+      "arabic": "يوجد خمسة وعشرون طالباً في الصف.",
+      "pronunciation": "Yujad khamsah wa 'ishrun taaliban fi al-saff.",
+      "context": "Use this to state a specific quantity or number of people."
     }
   ],
   "total": 5
