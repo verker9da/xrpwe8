@@ -162,13 +162,14 @@
     "where is the nearest restroom?",
     "i would like a cup of coffee, please.",
     "can you help me, please?",
-    "i don't understand."
+    "i don't understand.",
+    "patience is the key to relief.",
+    "learn from yesterday, live for today, hope for tomorrow.",
+    "a little bit of knowledge is a dangerous thing.",
+    "the pen is mightier than the sword.",
+    "every cloud has a silver lining."
   ],
   "used_categories": [
-    {
-      "category": "الاتجاهات",
-      "timestamp": "2026-03-26T17:39:33.485656"
-    },
     {
       "category": "الحيوانات",
       "timestamp": "2026-03-26T20:05:45.393256"
@@ -364,6 +365,10 @@
     {
       "category": "العمل والأعمال",
       "timestamp": "2026-05-06T22:10:51.904618"
+    },
+    {
+      "category": "الحكمة",
+      "timestamp": "2026-05-07T09:46:56.318421"
     }
   ],
   "phrase_hashes": [
@@ -529,6 +534,11 @@
     "afdcaf26876544f1980d847523588a7a",
     "2d4143311492b7826e5fa03513467f5c",
     "4e16ff2b9fe50bf808b0b5584513b186",
-    "708bbe2c109c6675e0a86e4fc1417eb1"
+    "708bbe2c109c6675e0a86e4fc1417eb1",
+    "fef258c1ea89caa38c797a3fcb41b98a",
+    "d12a520987c76528da5179e632fc1296",
+    "6de85b48a480df20685d7ffe7e84fb89",
+    "c02be675980d5efa137085b32b834a9b",
+    "7f5f35e1ada810789505c324a04c538f"
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "category": "العمل والأعمال",
+  "category": "الحكمة",
   "phrases": [
     {
-      "english": "I am looking for a new job opportunity.",
-      "arabic": "أنا أبحث عن فرصة عمل جديدة.",
-      "pronunciation": "Ana abḥath 'an furṣa 'amal jadīdah.",
-      "context": "Use this when you are actively seeking employment."
+      "english": "Patience is the key to relief.",
+      "arabic": "الصبر مفتاح الفرج.",
+      "pronunciation": "As-sabru miftaah al-faraj.",
+      "context": "Use this when encouraging someone facing a difficult situation."
     },
     {
-      "english": "Can you please send me the company's annual report?",
-      "arabic": "هل يمكنك من فضلك إرسال التقرير السنوي للشركة لي؟",
-      "pronunciation": "Hal yumkinuka min faḍlik irsāl al-taqrīr al-sanawī lil-sharika lī?",
-      "context": "This is useful for requesting important business documents."
+      "english": "Learn from yesterday, live for today, hope for tomorrow.",
+      "arabic": "تعلم من الأمس، عش لليوم، أمل في الغد.",
+      "pronunciation": "Ta'allam min al-amsi, 'ish lil-yawm, amal fil-ghad.",
+      "context": "This is a motivational phrase about embracing life's journey."
     },
     {
-      "english": "I need to schedule a meeting with the marketing team.",
-      "arabic": "أحتاج إلى تحديد موعد اجتماع مع فريق التسويق.",
-      "pronunciation": "Aḥtāju ilā taḥdīd maw'id ijtima' ma' farīq al-taswīq.",
-      "context": "Say this when you want to arrange a group discussion."
+      "english": "A little bit of knowledge is a dangerous thing.",
+      "arabic": "قليل العلم خطر.",
+      "pronunciation": "Qaleel al-'ilm khatar.",
+      "context": "Said when someone thinks they know a lot but actually knows very little."
     },
     {
-      "english": "What is your company's main product?",
-      "arabic": "ما هو المنتج الرئيسي لشركتكم؟",
-      "pronunciation": "Mā huwa al-muntaj al-ra'īsī li-sharikatukum?",
-      "context": "Ask this to inquire about their core business offerings."
+      "english": "The pen is mightier than the sword.",
+      "arabic": "القلم أقوى من السيف.",
+      "pronunciation": "Al-qalamu aqwaa min as-saif.",
+      "context": "This phrase highlights the power of communication over violence."
     },
     {
-      "english": "I am available for a phone interview tomorrow.",
-      "arabic": "أنا متاح لإجراء مقابلة هاتفية غدًا.",
-      "pronunciation": "Ana mutāḥ li-ijrā' muqābalah hātifiyyah ghadan.",
-      "context": "Use this to confirm your availability for a job interview."
+      "english": "Every cloud has a silver lining.",
+      "arabic": "لكل محنة منحة.",
+      "pronunciation": "Li-kulli mihnah min'hah.",
+      "context": "Use this to remind someone that good can come from bad situations."
     }
   ],
   "total": 5
