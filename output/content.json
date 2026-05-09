@@ -1,35 +1,35 @@
 {
-  "category": "الحيوانات",
+  "category": "العواطف والمشاعر",
   "phrases": [
     {
-      "english": "I have a cat and a dog at home.",
-      "arabic": "لدي قطة وكلب في المنزل.",
-      "pronunciation": "Ladai qittah wa kalb fil manzil.",
-      "context": "Use this to tell someone about your pets."
+      "english": "I am very happy today.",
+      "arabic": "أنا سعيد جدًا اليوم.",
+      "pronunciation": "Ana sa'eed jiddan al-yawm.",
+      "context": "Use this when you feel joyful or pleased."
     },
     {
-      "english": "The bird is singing beautifully outside.",
-      "arabic": "العصفور يغني بشكل جميل في الخارج.",
-      "pronunciation": "Al-'usfoor yughanni bishakl jameel fil kharij.",
-      "context": "Say this when you hear a bird singing."
+      "english": "I feel a little sad.",
+      "arabic": "أشعر ببعض الحزن.",
+      "pronunciation": "Ash'ur bi-ba'd al-huzn.",
+      "context": "Use this when you are experiencing a mild sense of unhappiness."
     },
     {
-      "english": "I saw a rabbit in the park yesterday.",
-      "arabic": "رأيت أرنباً في الحديقة أمس.",
-      "pronunciation": "Ra'aitu arnanban fil hadeeqah ams.",
-      "context": "Use this to describe an animal sighting."
+      "english": "I am angry because of the delay.",
+      "arabic": "أنا غاضب بسبب التأخير.",
+      "pronunciation": "Ana ghadib bi-sabab at-ta'kheer.",
+      "context": "Use this to express frustration or annoyance."
     },
     {
-      "english": "My neighbor has a very loud horse.",
-      "arabic": "جاري لديه حصان صاخب جداً.",
-      "pronunciation": "Jaree ladaihisan sakhib jiddan.",
-      "context": "Talk about a neighbor's animal."
+      "english": "She is very excited about the trip.",
+      "arabic": "هي متحمسة جدًا للرحلة.",
+      "pronunciation": "Hiya mutahammisa jiddan lir-rihla.",
+      "context": "Use this to describe someone's enthusiasm for an event."
     },
     {
-      "english": "I am afraid of snakes.",
-      "arabic": "أنا أخاف من الثعابين.",
-      "pronunciation": "Ana akhaf min ath-tha'aabeen.",
-      "context": "Express your fear of a specific animal."
+      "english": "He is afraid of spiders.",
+      "arabic": "هو يخاف من العناكب.",
+      "pronunciation": "Huwa yakhaf min al-'anakeb.",
+      "context": "Use this to state someone's phobia or fear."
     }
   ],
   "total": 5
