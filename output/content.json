@@ -1,35 +1,35 @@
 {
-  "category": "التسوق",
+  "category": "الألوان والأوصاف",
   "phrases": [
     {
-      "english": "How much does this cost?",
-      "arabic": "بكم هذا؟",
-      "pronunciation": "Bikam hatha?",
-      "context": "Use this to ask the price of an item you are interested in buying."
+      "english": "This shirt is a beautiful blue color.",
+      "arabic": "هذا القميص لونه أزرق جميل.",
+      "pronunciation": "Hatha al-qamees lawnuhu azraq jameel.",
+      "context": "Use this to describe the color of an item of clothing."
     },
     {
-      "english": "I would like to buy this shirt.",
-      "arabic": "أريد شراء هذه القميص.",
-      "pronunciation": "Ureed shiraa' hathihi al-qamees.",
-      "context": "State what specific item you wish to purchase."
+      "english": "I like the bright red car.",
+      "arabic": "أنا أحب السيارة الحمراء الزاهية.",
+      "pronunciation": "Ana uhibb al-sayyarah al-hamra' al-zahiyah.",
+      "context": "Use this to describe a vividly colored object."
     },
     {
-      "english": "Do you have this in a different size?",
-      "arabic": "هل لديكم هذا بمقاس مختلف؟",
-      "pronunciation": "Hal ladaykum hatha bi-maqaas mukhtalif?",
-      "context": "Inquire about availability in other sizes if the current one doesn't fit."
+      "english": "The dark green walls look very elegant.",
+      "arabic": "الجدران خضراء داكنة تبدو أنيقة جداً.",
+      "pronunciation": "Al-judran khadra' dakinah tabdu aniqah jiddan.",
+      "context": "Use this when describing sophisticated or subdued colors."
     },
     {
-      "english": "Can I try this on?",
-      "arabic": "هل يمكنني تجربته؟",
-      "pronunciation": "Hal yumkinuni tajribatuh?",
-      "context": "Ask permission to try on clothing before purchasing."
+      "english": "His eyes are a deep brown color.",
+      "arabic": "عيناه لونها بني غامق.",
+      "pronunciation": "Aynahu lawnuha bunni ghamiq.",
+      "context": "Use this to describe the shade of someone's eyes."
     },
     {
-      "english": "I am just looking, thank you.",
-      "arabic": "أنا فقط أتفرج، شكراً لك.",
-      "pronunciation": "Ana faqat atafarraj, shukran lak.",
-      "context": "Politely decline assistance if you are not ready to buy yet."
+      "english": "She wore a dress that was light pink.",
+      "arabic": "ارتدت فستاناً لونه وردي فاتح.",
+      "pronunciation": "Irtadat fustanan lawnuhu wardi fatih.",
+      "context": "Use this to describe a pale or soft shade of color."
     }
   ],
   "total": 5
