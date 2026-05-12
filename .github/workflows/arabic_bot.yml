@@ -8,7 +8,8 @@ on:
     - cron: '0 19 * * *'  # 2:00 PM EST
     - cron: '0 22 * * *'  # 5:00 PM EST
     - cron: '0 1 * * *'   # 8:00 PM EST
-
+    - cron: '0 4 * * *'   # 11:00 PM EST
+    
   workflow_dispatch: # Allow manual trigger
 
 jobs:
