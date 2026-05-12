@@ -1,35 +1,35 @@
 {
-  "category": "الطعام والطعام",
+  "category": "الحب",
   "phrases": [
     {
-      "english": "I would like to order a falafel sandwich, please.",
-      "arabic": "أود أن أطلب سندويتش فلافل من فضلك.",
-      "pronunciation": "Awad an atlub sandwich falafel min fadlak.",
-      "context": "Use this when ordering food at a restaurant or cafe."
+      "english": "I love you very much.",
+      "arabic": "أحبك كثيراً.",
+      "pronunciation": "Uhibbuka katheeran.",
+      "context": "This is a strong expression of love for a romantic partner or close family member."
     },
     {
-      "english": "This food is very delicious, thank you.",
-      "arabic": "هذا الطعام لذيذ جداً، شكراً لك.",
-      "pronunciation": "Hatha al-ta'am latheeth jiddan, shukran lak.",
-      "context": "Say this to compliment the cook or server on a meal."
+      "english": "You are very beautiful.",
+      "arabic": "أنتِ جميلة جداً.",
+      "pronunciation": "Anti jameela jiddan.",
+      "context": "Use this to compliment a woman's appearance sincerely."
     },
     {
-      "english": "Can I have the bill, please?",
-      "arabic": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
-      "pronunciation": "Hal yumkinuni al-husool 'ala al-fatoorah, min fadlak?",
-      "context": "Use this when you are ready to pay after eating."
+      "english": "My heart beats for you.",
+      "arabic": "قلبي ينبض لك.",
+      "pronunciation": "Qalbi yanbidhu lak.",
+      "context": "A poetic and romantic way to express deep affection."
     },
     {
-      "english": "I am allergic to peanuts.",
-      "arabic": "أنا حساس من الفول السوداني.",
-      "pronunciation": "Ana hassas min al-fool al-soodani.",
-      "context": "Inform your server about any food allergies to ensure safety."
+      "english": "I miss you a lot.",
+      "arabic": "أفتقدك كثيراً.",
+      "pronunciation": "Aftaqiduka katheeran.",
+      "context": "Use this when you haven't seen someone you care about in a while."
     },
     {
-      "english": "Where is the nearest supermarket?",
-      "arabic": "أين السوبر ماركت الأقرب؟",
-      "pronunciation": "Ayna al-supermarket al-aqrab?",
-      "context": "Ask this when you need to buy groceries or food items."
+      "english": "You are my everything.",
+      "arabic": "أنت كل شيء لي.",
+      "pronunciation": "Anta kullu shay'in li.",
+      "context": "This phrase conveys that the person is the most important thing in your life."
     }
   ],
   "total": 5
