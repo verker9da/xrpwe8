@@ -1,35 +1,35 @@
 {
-  "category": "الأرقام والوقت",
+  "category": "الاتجاهات",
   "phrases": [
     {
-      "english": "What time is it right now?",
-      "arabic": "كم الساعة الآن؟",
-      "pronunciation": "Kam al-saa'ah al-aan?",
-      "context": "Use this to ask for the current time in any situation."
+      "english": "Where is the nearest train station, please?",
+      "arabic": "أين أقرب محطة قطار من فضلك؟",
+      "pronunciation": "Ayna aqrab mahattat qitar min fadlak?",
+      "context": "Use this when you need to find the closest train station."
     },
     {
-      "english": "The meeting is at three o'clock in the afternoon.",
-      "arabic": "الاجتماع في الساعة الثالثة بعد الظهر.",
-      "pronunciation": "Al-ijtimaa' fi al-saa'ah al-thaalithah ba'd al-dhuhr.",
-      "context": "This phrase is useful for stating scheduled appointments or events."
+      "english": "How do I get to the city center?",
+      "arabic": "كيف أصل إلى وسط المدينة؟",
+      "pronunciation": "Kayfa aṣil ilā wasṭ al-madīnah?",
+      "context": "Ask this if you are unsure how to reach the central part of the city."
     },
     {
-      "english": "I need to leave at seven thirty in the morning.",
-      "arabic": "أحتاج أن أغادر في الساعة السابعة والنصف صباحاً.",
-      "pronunciation": "Ahtaaj an ughaadir fi al-saa'ah al-saabi'ah wal-nisf sabaahan.",
-      "context": "Use this to inform someone about your departure time."
+      "english": "Can you show me on the map?",
+      "arabic": "هل يمكنك أن تريني على الخريطة؟",
+      "pronunciation": "Hal yumkinuka an turīnī 'ala al-kharīṭah?",
+      "context": "Request this when you want a visual guide to a location."
     },
     {
-      "english": "My birthday is on the fifth of June.",
-      "arabic": "عيد ميلادي في الخامس من يونيو.",
-      "pronunciation": "Eid meelaadi fi al-khaamis min Yunyuu.",
-      "context": "This is how you state your date of birth or any date."
+      "english": "Turn left at the next intersection.",
+      "arabic": "انعطف يسارًا عند التقاطع التالي.",
+      "pronunciation": "In'aṭif yasāran 'inda al-taqāṭu' al-tālī.",
+      "context": "This is a common direction given by locals or navigation apps."
     },
     {
-      "english": "There are twenty-five students in the class.",
-      "arabic": "يوجد خمسة وعشرون طالباً في الصف.",
-      "pronunciation": "Yujad khamsah wa 'ishrun taaliban fi al-saff.",
-      "context": "Use this to state a specific quantity or number of people."
+      "english": "Is it far from here?",
+      "arabic": "هل هو بعيد من هنا؟",
+      "pronunciation": "Hal huwa ba'īd min hunā?",
+      "context": "Inquire about the distance to a destination you are heading towards."
     }
   ],
   "total": 5
