@@ -1,35 +1,35 @@
 {
-  "category": "التحيات اليومية",
+  "category": "التسوق",
   "phrases": [
     {
-      "english": "Good morning, how are you today?",
-      "arabic": "صباح الخير، كيف حالك اليوم؟",
-      "pronunciation": "Sabah al-khair, kayfa haluk al-yawm?",
-      "context": "Used to greet someone in the morning."
+      "english": "How much does this cost?",
+      "arabic": "بكم هذا؟",
+      "pronunciation": "Bikam hatha?",
+      "context": "Use this to ask the price of an item you are interested in buying."
     },
     {
-      "english": "Hello, peace be upon you.",
-      "arabic": "مرحباً، السلام عليكم.",
-      "pronunciation": "Marhaban, as-salamu alaykum.",
-      "context": "A very common and respectful greeting used at any time."
+      "english": "I would like to buy this shirt.",
+      "arabic": "أريد شراء هذه القميص.",
+      "pronunciation": "Ureed shiraa' hathihi al-qamees.",
+      "context": "State what specific item you wish to purchase."
     },
     {
-      "english": "Good evening, I hope you are well.",
-      "arabic": "مساء الخير، أتمنى أن تكون بخير.",
-      "pronunciation": "Masa' al-khair, atamanna an takun bikhair.",
-      "context": "Used to greet someone in the evening."
+      "english": "Do you have this in a different size?",
+      "arabic": "هل لديكم هذا بمقاس مختلف؟",
+      "pronunciation": "Hal ladaykum hatha bi-maqaas mukhtalif?",
+      "context": "Inquire about availability in other sizes if the current one doesn't fit."
     },
     {
-      "english": "Goodbye, may you be in God's protection.",
-      "arabic": "مع السلامة، في أمان الله.",
-      "pronunciation": "Ma'a as-salama, fi aman Allah.",
-      "context": "A common and warm way to say goodbye."
+      "english": "Can I try this on?",
+      "arabic": "هل يمكنني تجربته؟",
+      "pronunciation": "Hal yumkinuni tajribatuh?",
+      "context": "Ask permission to try on clothing before purchasing."
     },
     {
-      "english": "Thank you very much for your help.",
-      "arabic": "شكراً جزيلاً على مساعدتك.",
-      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
-      "context": "Expressing gratitude after someone has assisted you."
+      "english": "I am just looking, thank you.",
+      "arabic": "أنا فقط أتفرج، شكراً لك.",
+      "pronunciation": "Ana faqat atafarraj, shukran lak.",
+      "context": "Politely decline assistance if you are not ready to buy yet."
     }
   ],
   "total": 5
