@@ -1,35 +1,35 @@
 {
-  "category": "الألوان والأوصاف",
+  "category": "العمل والأعمال",
   "phrases": [
     {
-      "english": "This shirt is a beautiful blue color.",
-      "arabic": "هذا القميص لونه أزرق جميل.",
-      "pronunciation": "Hatha al-qamees lawnuhu azraq jameel.",
-      "context": "Use this to describe the color of an item of clothing."
+      "english": "I am looking for a new job opportunity.",
+      "arabic": "أنا أبحث عن فرصة عمل جديدة.",
+      "pronunciation": "Ana abḥath 'an furṣa 'amal jadīdah.",
+      "context": "Use this when you are actively seeking employment."
     },
     {
-      "english": "I like the bright red car.",
-      "arabic": "أنا أحب السيارة الحمراء الزاهية.",
-      "pronunciation": "Ana uhibb al-sayyarah al-hamra' al-zahiyah.",
-      "context": "Use this to describe a vividly colored object."
+      "english": "Can you please send me the company's annual report?",
+      "arabic": "هل يمكنك من فضلك إرسال التقرير السنوي للشركة لي؟",
+      "pronunciation": "Hal yumkinuka min faḍlik irsāl al-taqrīr al-sanawī lil-sharika lī?",
+      "context": "This is useful for requesting important business documents."
     },
     {
-      "english": "The dark green walls look very elegant.",
-      "arabic": "الجدران خضراء داكنة تبدو أنيقة جداً.",
-      "pronunciation": "Al-judran khadra' dakinah tabdu aniqah jiddan.",
-      "context": "Use this when describing sophisticated or subdued colors."
+      "english": "I need to schedule a meeting with the marketing team.",
+      "arabic": "أحتاج إلى تحديد موعد اجتماع مع فريق التسويق.",
+      "pronunciation": "Aḥtāju ilā taḥdīd maw'id ijtima' ma' farīq al-taswīq.",
+      "context": "Say this when you want to arrange a group discussion."
     },
     {
-      "english": "His eyes are a deep brown color.",
-      "arabic": "عيناه لونها بني غامق.",
-      "pronunciation": "Aynahu lawnuha bunni ghamiq.",
-      "context": "Use this to describe the shade of someone's eyes."
+      "english": "What is your company's main product?",
+      "arabic": "ما هو المنتج الرئيسي لشركتكم؟",
+      "pronunciation": "Mā huwa al-muntaj al-ra'īsī li-sharikatukum?",
+      "context": "Ask this to inquire about their core business offerings."
     },
     {
-      "english": "She wore a dress that was light pink.",
-      "arabic": "ارتدت فستاناً لونه وردي فاتح.",
-      "pronunciation": "Irtadat fustanan lawnuhu wardi fatih.",
-      "context": "Use this to describe a pale or soft shade of color."
+      "english": "I am available for a phone interview tomorrow.",
+      "arabic": "أنا متاح لإجراء مقابلة هاتفية غدًا.",
+      "pronunciation": "Ana mutāḥ li-ijrā' muqābalah hātifiyyah ghadan.",
+      "context": "Use this to confirm your availability for a job interview."
     }
   ],
   "total": 5
