@@ -1,35 +1,35 @@
 {
-  "category": "العمل والأعمال",
+  "category": "النجاح",
   "phrases": [
     {
-      "english": "I am looking for a new job opportunity.",
-      "arabic": "أنا أبحث عن فرصة عمل جديدة.",
-      "pronunciation": "Ana abḥath 'an furṣa 'amal jadīdah.",
-      "context": "Use this when you are actively seeking employment."
+      "english": "Hello, how are you doing today?",
+      "arabic": "مرحباً، كيف حالك اليوم؟",
+      "pronunciation": "Marhaban, kayfa haluka al-yawm?",
+      "context": "A polite greeting to start any conversation."
     },
     {
-      "english": "Can you please send me the company's annual report?",
-      "arabic": "هل يمكنك من فضلك إرسال التقرير السنوي للشركة لي؟",
-      "pronunciation": "Hal yumkinuka min faḍlik irsāl al-taqrīr al-sanawī lil-sharika lī?",
-      "context": "This is useful for requesting important business documents."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatika.",
+      "context": "Expressing gratitude when someone has assisted you."
     },
     {
-      "english": "I need to schedule a meeting with the marketing team.",
-      "arabic": "أحتاج إلى تحديد موعد اجتماع مع فريق التسويق.",
-      "pronunciation": "Aḥtāju ilā taḥdīd maw'id ijtima' ma' farīq al-taswīq.",
-      "context": "Say this when you want to arrange a group discussion."
+      "english": "Excuse me, where is the nearest restroom?",
+      "arabic": "عفواً، أين أقرب حمام؟",
+      "pronunciation": "'Afwan, ayna aqrab hammam?",
+      "context": "Asking for directions to a necessary facility."
     },
     {
-      "english": "What is your company's main product?",
-      "arabic": "ما هو المنتج الرئيسي لشركتكم؟",
-      "pronunciation": "Mā huwa al-muntaj al-ra'īsī li-sharikatukum?",
-      "context": "Ask this to inquire about their core business offerings."
+      "english": "I would like to order one cup of coffee.",
+      "arabic": "أرغب في طلب كوب واحد من القهوة.",
+      "pronunciation": "Arghabu fi talabi koobin wahidin min al-qahwah.",
+      "context": "Useful for ordering food or drinks in a restaurant or cafe."
     },
     {
-      "english": "I am available for a phone interview tomorrow.",
-      "arabic": "أنا متاح لإجراء مقابلة هاتفية غدًا.",
-      "pronunciation": "Ana mutāḥ li-ijrā' muqābalah hātifiyyah ghadan.",
-      "context": "Use this to confirm your availability for a job interview."
+      "english": "I don't understand what you are saying.",
+      "arabic": "أنا لا أفهم ما تقوله.",
+      "pronunciation": "Ana la afhamu ma taquluhu.",
+      "context": "To politely indicate a lack of comprehension."
     }
   ],
   "total": 5
