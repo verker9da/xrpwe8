@@ -1,35 +1,35 @@
 {
-  "category": "السعادة",
+  "category": "الطعام والطعام",
   "phrases": [
     {
-      "english": "I am very happy today because the weather is beautiful.",
-      "arabic": "أنا سعيد جدًا اليوم لأن الطقس جميل.",
-      "pronunciation": "Ana sa'eed jiddan al-yawm li'anna al-taqs jameel.",
-      "context": "Use this to express your happiness about a pleasant day."
+      "english": "I would like to order a falafel sandwich, please.",
+      "arabic": "أود أن أطلب سندويتش فلافل من فضلك.",
+      "pronunciation": "Awad an atlub sandwich falafel min fadlak.",
+      "context": "Use this when ordering food at a restaurant or cafe."
     },
     {
-      "english": "This food tastes delicious, it makes me happy.",
-      "arabic": "هذا الطعام لذيذ جدًا، إنه يجعلني سعيدًا.",
-      "pronunciation": "Hadha al-ta'am ladheedh jiddan, innahu yaj'aluni sa'eedan.",
-      "context": "Say this when you enjoy a meal immensely."
+      "english": "This food is very delicious, thank you.",
+      "arabic": "هذا الطعام لذيذ جداً، شكراً لك.",
+      "pronunciation": "Hatha al-ta'am latheeth jiddan, shukran lak.",
+      "context": "Say this to compliment the cook or server on a meal."
     },
     {
-      "english": "Seeing my family always brings me joy.",
-      "arabic": "رؤية عائلتي تجلب لي السعادة دائمًا.",
-      "pronunciation": "Ru'yat 'a'ilati tajlibu li al-sa'adah da'iman.",
-      "context": "Express this sentiment when you are with loved ones."
+      "english": "Can I have the bill, please?",
+      "arabic": "هل يمكنني الحصول على الفاتورة، من فضلك؟",
+      "pronunciation": "Hal yumkinuni al-husool 'ala al-fatoorah, min fadlak?",
+      "context": "Use this when you are ready to pay after eating."
     },
     {
-      "english": "I feel a sense of peace and happiness when I read books.",
-      "arabic": "أشعر بالسلام والسعادة عندما أقرأ الكتب.",
-      "pronunciation": "Ash'ur bil-salam wal-sa'adah 'indama aqra' al-kutub.",
-      "context": "Share this when talking about your hobbies and how they affect you."
+      "english": "I am allergic to peanuts.",
+      "arabic": "أنا حساس من الفول السوداني.",
+      "pronunciation": "Ana hassas min al-fool al-soodani.",
+      "context": "Inform your server about any food allergies to ensure safety."
     },
     {
-      "english": "Thank you, your kindness has made me truly happy.",
-      "arabic": "شكرًا لك، لطفك أسعدني حقًا.",
-      "pronunciation": "Shukran lak, lutfuka as'adani haqqan.",
-      "context": "Use this to show gratitude for someone's kind actions."
+      "english": "Where is the nearest supermarket?",
+      "arabic": "أين السوبر ماركت الأقرب؟",
+      "pronunciation": "Ayna al-supermarket al-aqrab?",
+      "context": "Ask this when you need to buy groceries or food items."
     }
   ],
   "total": 5
