@@ -1,35 +1,35 @@
 {
-  "category": "الاتجاهات",
+  "category": "السعادة",
   "phrases": [
     {
-      "english": "Where is the nearest train station, please?",
-      "arabic": "أين أقرب محطة قطار من فضلك؟",
-      "pronunciation": "Ayna aqrab mahattat qitar min fadlak?",
-      "context": "Use this when you need to find the closest train station."
+      "english": "I am very happy today because the weather is beautiful.",
+      "arabic": "أنا سعيد جدًا اليوم لأن الطقس جميل.",
+      "pronunciation": "Ana sa'eed jiddan al-yawm li'anna al-taqs jameel.",
+      "context": "Use this to express your happiness about a pleasant day."
     },
     {
-      "english": "How do I get to the city center?",
-      "arabic": "كيف أصل إلى وسط المدينة؟",
-      "pronunciation": "Kayfa aṣil ilā wasṭ al-madīnah?",
-      "context": "Ask this if you are unsure how to reach the central part of the city."
+      "english": "This food tastes delicious, it makes me happy.",
+      "arabic": "هذا الطعام لذيذ جدًا، إنه يجعلني سعيدًا.",
+      "pronunciation": "Hadha al-ta'am ladheedh jiddan, innahu yaj'aluni sa'eedan.",
+      "context": "Say this when you enjoy a meal immensely."
     },
     {
-      "english": "Can you show me on the map?",
-      "arabic": "هل يمكنك أن تريني على الخريطة؟",
-      "pronunciation": "Hal yumkinuka an turīnī 'ala al-kharīṭah?",
-      "context": "Request this when you want a visual guide to a location."
+      "english": "Seeing my family always brings me joy.",
+      "arabic": "رؤية عائلتي تجلب لي السعادة دائمًا.",
+      "pronunciation": "Ru'yat 'a'ilati tajlibu li al-sa'adah da'iman.",
+      "context": "Express this sentiment when you are with loved ones."
     },
     {
-      "english": "Turn left at the next intersection.",
-      "arabic": "انعطف يسارًا عند التقاطع التالي.",
-      "pronunciation": "In'aṭif yasāran 'inda al-taqāṭu' al-tālī.",
-      "context": "This is a common direction given by locals or navigation apps."
+      "english": "I feel a sense of peace and happiness when I read books.",
+      "arabic": "أشعر بالسلام والسعادة عندما أقرأ الكتب.",
+      "pronunciation": "Ash'ur bil-salam wal-sa'adah 'indama aqra' al-kutub.",
+      "context": "Share this when talking about your hobbies and how they affect you."
     },
     {
-      "english": "Is it far from here?",
-      "arabic": "هل هو بعيد من هنا؟",
-      "pronunciation": "Hal huwa ba'īd min hunā?",
-      "context": "Inquire about the distance to a destination you are heading towards."
+      "english": "Thank you, your kindness has made me truly happy.",
+      "arabic": "شكرًا لك، لطفك أسعدني حقًا.",
+      "pronunciation": "Shukran lak, lutfuka as'adani haqqan.",
+      "context": "Use this to show gratitude for someone's kind actions."
     }
   ],
   "total": 5
