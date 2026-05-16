@@ -175,13 +175,11 @@
     "good morning, how are you today?",
     "hello, peace be upon you.",
     "good evening, i hope you are well.",
-    "goodbye, may you be in god's protection."
+    "goodbye, may you be in god's protection.",
+    "i don't understand what you mean.",
+    "can you please repeat that for me?"
   ],
   "used_categories": [
-    {
-      "category": "السعادة",
-      "timestamp": "2026-05-03T16:33:12.608957"
-    },
     {
       "category": "العمل والأعمال",
       "timestamp": "2026-05-03T21:28:21.709235"
@@ -377,6 +375,10 @@
     {
       "category": "الحيوانات",
       "timestamp": "2026-05-16T16:13:32.873088"
+    },
+    {
+      "category": "العبارات الشائعة",
+      "timestamp": "2026-05-16T19:48:54.337767"
     }
   ],
   "phrase_hashes": [
@@ -555,6 +557,8 @@
     "0e639be2ac3c96890290c67b6b12184e",
     "6a08969f5cae0f42329839b02f79263a",
     "8cb3aa5824159e8bbfa69b4d22d46ae2",
-    "5538598d3993da884151da1ee2779e4e"
+    "5538598d3993da884151da1ee2779e4e",
+    "f1aa85cf0d48ea06b90bf67709010912",
+    "82dcb1235a4d25c57f031b050446908c"
   ]
 }
