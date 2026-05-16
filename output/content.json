@@ -1,35 +1,35 @@
 {
-  "category": "أساسيات السفر",
+  "category": "التحيات اليومية",
   "phrases": [
     {
-      "english": "Where is the nearest restroom?",
-      "arabic": "أين أقرب حمام؟",
-      "pronunciation": "Ayna aqrab hammam?",
-      "context": "Use this when you need to find a bathroom urgently."
+      "english": "Good morning, how are you today?",
+      "arabic": "صباح الخير، كيف حالك اليوم؟",
+      "pronunciation": "Sabah al-khair, kayfa haluk al-yawm?",
+      "context": "Used to greet someone in the morning."
     },
     {
-      "english": "How much does this cost?",
-      "arabic": "بكم هذا؟",
-      "pronunciation": "Bikam hatha?",
-      "context": "Ask this when you want to know the price of an item."
+      "english": "Hello, peace be upon you.",
+      "arabic": "مرحباً، السلام عليكم.",
+      "pronunciation": "Marhaban, as-salamu alaykum.",
+      "context": "A very common and respectful greeting used at any time."
     },
     {
-      "english": "I would like a cup of coffee, please.",
-      "arabic": "أريد كوب قهوة من فضلك.",
-      "pronunciation": "Ureed koob qahwa min fadlak.",
-      "context": "Use this when ordering a drink at a cafe."
+      "english": "Good evening, I hope you are well.",
+      "arabic": "مساء الخير، أتمنى أن تكون بخير.",
+      "pronunciation": "Masa' al-khair, atamanna an takun bikhair.",
+      "context": "Used to greet someone in the evening."
     },
     {
-      "english": "Can you help me, please?",
-      "arabic": "هل يمكنك مساعدتي من فضلك؟",
-      "pronunciation": "Hal yumkinuka musa'adati min fadlak?",
-      "context": "Say this if you need assistance from someone."
+      "english": "Goodbye, may you be in God's protection.",
+      "arabic": "مع السلامة، في أمان الله.",
+      "pronunciation": "Ma'a as-salama, fi aman Allah.",
+      "context": "A common and warm way to say goodbye."
     },
     {
-      "english": "I don't understand.",
-      "arabic": "أنا لا أفهم.",
-      "pronunciation": "Ana la afham.",
-      "context": "Use this when you cannot comprehend what someone is saying."
+      "english": "Thank you very much for your help.",
+      "arabic": "شكراً جزيلاً على مساعدتك.",
+      "pronunciation": "Shukran jazeelan 'ala musa'adatik.",
+      "context": "Expressing gratitude after someone has assisted you."
     }
   ],
   "total": 5
