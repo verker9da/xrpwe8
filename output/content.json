@@ -1,35 +1,35 @@
 {
-  "category": "الحيوانات",
+  "category": "الهوايات والأنشطة",
   "phrases": [
     {
-      "english": "I have a cat and a dog at home.",
-      "arabic": "لدي قطة وكلب في المنزل.",
-      "pronunciation": "Ladai qittah wa kalb fil manzil.",
-      "context": "Use this to tell someone about your pets."
+      "english": "I enjoy reading books in my free time.",
+      "arabic": "أنا أستمتع بقراءة الكتب في وقت فراغي.",
+      "pronunciation": "Ana astamti' bi qira'at al-kutub fi waqt faraghi.",
+      "context": "Use this to talk about your favorite hobby."
     },
     {
-      "english": "The bird is singing beautifully outside.",
-      "arabic": "العصفور يغني بشكل جميل في الخارج.",
-      "pronunciation": "Al-'usfoor yughanni bishakl jameel fil kharij.",
-      "context": "Say this when you hear a bird singing."
+      "english": "My favorite hobby is playing football with my friends.",
+      "arabic": "هوايتي المفضلة هي لعب كرة القدم مع أصدقائي.",
+      "pronunciation": "Hiwayti al-mufaddalah hiya la'ib kurat al-qadam ma'a asdiqa'i.",
+      "context": "Share your preferred leisure activity."
     },
     {
-      "english": "I saw a rabbit in the park yesterday.",
-      "arabic": "رأيت أرنباً في الحديقة أمس.",
-      "pronunciation": "Ra'aitu arnanban fil hadeeqah ams.",
-      "context": "Use this to describe an animal sighting."
+      "english": "I like listening to music, especially Arabic music.",
+      "arabic": "أحب الاستماع إلى الموسيقى، وخاصة الموسيقى العربية.",
+      "pronunciation": "Uhibbu al-istima' ila al-musiqa, wa khassatan al-musiqa al-'arabiyyah.",
+      "context": "Express your enjoyment of a specific type of music."
     },
     {
-      "english": "My neighbor has a very loud horse.",
-      "arabic": "جاري لديه حصان صاخب جداً.",
-      "pronunciation": "Jaree ladaihisan sakhib jiddan.",
-      "context": "Talk about a neighbor's animal."
+      "english": "I love to travel and explore new places.",
+      "arabic": "أحب السفر واستكشاف الأماكن الجديدة.",
+      "pronunciation": "Uhibbu as-safar wa istikshaf al-amakin al-jadidah.",
+      "context": "Talk about your passion for exploring different locations."
     },
     {
-      "english": "I am afraid of snakes.",
-      "arabic": "أنا أخاف من الثعابين.",
-      "pronunciation": "Ana akhaf min ath-tha'aabeen.",
-      "context": "Express your fear of a specific animal."
+      "english": "I spend my weekends hiking in the mountains.",
+      "arabic": "أقضي عطلة نهاية الأسبوع في المشي لمسافات طويلة في الجبال.",
+      "pronunciation": "Aqdi 'utlat nihayat al-usbu' fi al-mashi li masafat tawilah fi al-jibal.",
+      "context": "Describe how you spend your leisure time outdoors."
     }
   ],
   "total": 5
