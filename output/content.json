@@ -1,35 +1,35 @@
 {
-  "category": "أساسيات السفر",
+  "category": "الصحة والجسد",
   "phrases": [
     {
-      "english": "Where is the nearest restroom?",
-      "arabic": "أين أقرب حمام؟",
-      "pronunciation": "Ayna aqrab hammam?",
-      "context": "Use this when you need to find a bathroom urgently."
+      "english": "I have a headache.",
+      "arabic": "أنا أشعر بصداع.",
+      "pronunciation": "Ana ash'ur bi-sudaa'.",
+      "context": "Use this when you feel pain in your head."
     },
     {
-      "english": "How much does this cost?",
-      "arabic": "بكم هذا؟",
-      "pronunciation": "Bikam hatha?",
-      "context": "Ask this when you want to know the price of an item."
+      "english": "I am feeling tired.",
+      "arabic": "أنا أشعر بالتعب.",
+      "pronunciation": "Ana ash'ur bi-ta'ab.",
+      "context": "Say this when you lack energy or need rest."
     },
     {
-      "english": "I would like a cup of coffee, please.",
-      "arabic": "أريد كوب قهوة من فضلك.",
-      "pronunciation": "Ureed koob qahwa min fadlak.",
-      "context": "Use this when ordering a drink at a cafe."
+      "english": "I am allergic to cats.",
+      "arabic": "أنا لدي حساسية من القطط.",
+      "pronunciation": "Ana ladayya hasasiyya min al-qitat.",
+      "context": "Inform others about this specific allergy."
     },
     {
-      "english": "Can you help me, please?",
-      "arabic": "هل يمكنك مساعدتي من فضلك؟",
-      "pronunciation": "Hal yumkinuka musa'adati min fadlak?",
-      "context": "Say this if you need assistance from someone."
+      "english": "I need to see a doctor.",
+      "arabic": "أنا بحاجة لرؤية طبيب.",
+      "pronunciation": "Ana bi-haja li-ru'yat tabeeb.",
+      "context": "Use this when you require medical attention."
     },
     {
-      "english": "I don't understand.",
-      "arabic": "أنا لا أفهم.",
-      "pronunciation": "Ana la afham.",
-      "context": "Use this when you cannot comprehend what someone is saying."
+      "english": "My stomach hurts.",
+      "arabic": "معدتي تؤلمني.",
+      "pronunciation": "Ma'idati tu'limuni.",
+      "context": "Indicate pain or discomfort in your abdomen."
     }
   ],
   "total": 5
