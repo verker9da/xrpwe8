@@ -1,35 +1,35 @@
 {
-  "category": "العمل والأعمال",
+  "category": "الهوايات والأنشطة",
   "phrases": [
     {
-      "english": "I am looking for a new job opportunity.",
-      "arabic": "أنا أبحث عن فرصة عمل جديدة.",
-      "pronunciation": "Ana abḥath 'an furṣa 'amal jadīdah.",
-      "context": "Use this when you are actively seeking employment."
+      "english": "I enjoy reading books in my free time.",
+      "arabic": "أنا أستمتع بقراءة الكتب في وقت فراغي.",
+      "pronunciation": "Ana astamti' bi qira'at al-kutub fi waqt faraghi.",
+      "context": "Use this to talk about your favorite hobby."
     },
     {
-      "english": "Can you please send me the company's annual report?",
-      "arabic": "هل يمكنك من فضلك إرسال التقرير السنوي للشركة لي؟",
-      "pronunciation": "Hal yumkinuka min faḍlik irsāl al-taqrīr al-sanawī lil-sharika lī?",
-      "context": "This is useful for requesting important business documents."
+      "english": "My favorite hobby is playing football with my friends.",
+      "arabic": "هوايتي المفضلة هي لعب كرة القدم مع أصدقائي.",
+      "pronunciation": "Hiwayti al-mufaddalah hiya la'ib kurat al-qadam ma'a asdiqa'i.",
+      "context": "Share your preferred leisure activity."
     },
     {
-      "english": "I need to schedule a meeting with the marketing team.",
-      "arabic": "أحتاج إلى تحديد موعد اجتماع مع فريق التسويق.",
-      "pronunciation": "Aḥtāju ilā taḥdīd maw'id ijtima' ma' farīq al-taswīq.",
-      "context": "Say this when you want to arrange a group discussion."
+      "english": "I like listening to music, especially Arabic music.",
+      "arabic": "أحب الاستماع إلى الموسيقى، وخاصة الموسيقى العربية.",
+      "pronunciation": "Uhibbu al-istima' ila al-musiqa, wa khassatan al-musiqa al-'arabiyyah.",
+      "context": "Express your enjoyment of a specific type of music."
     },
     {
-      "english": "What is your company's main product?",
-      "arabic": "ما هو المنتج الرئيسي لشركتكم؟",
-      "pronunciation": "Mā huwa al-muntaj al-ra'īsī li-sharikatukum?",
-      "context": "Ask this to inquire about their core business offerings."
+      "english": "I love to travel and explore new places.",
+      "arabic": "أحب السفر واستكشاف الأماكن الجديدة.",
+      "pronunciation": "Uhibbu as-safar wa istikshaf al-amakin al-jadidah.",
+      "context": "Talk about your passion for exploring different locations."
     },
     {
-      "english": "I am available for a phone interview tomorrow.",
-      "arabic": "أنا متاح لإجراء مقابلة هاتفية غدًا.",
-      "pronunciation": "Ana mutāḥ li-ijrā' muqābalah hātifiyyah ghadan.",
-      "context": "Use this to confirm your availability for a job interview."
+      "english": "I spend my weekends hiking in the mountains.",
+      "arabic": "أقضي عطلة نهاية الأسبوع في المشي لمسافات طويلة في الجبال.",
+      "pronunciation": "Aqdi 'utlat nihayat al-usbu' fi al-mashi li masafat tawilah fi al-jibal.",
+      "context": "Describe how you spend your leisure time outdoors."
     }
   ],
   "total": 5
