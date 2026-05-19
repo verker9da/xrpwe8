@@ -1,35 +1,35 @@
 {
-  "category": "الحب",
+  "category": "الحكمة",
   "phrases": [
     {
-      "english": "I love you very much.",
-      "arabic": "أحبك كثيراً.",
-      "pronunciation": "Uhibbuka katheeran.",
-      "context": "This is a strong expression of love for a romantic partner or close family member."
+      "english": "Patience is the key to relief.",
+      "arabic": "الصبر مفتاح الفرج.",
+      "pronunciation": "As-sabru miftaah al-faraj.",
+      "context": "Use this when encouraging someone facing a difficult situation."
     },
     {
-      "english": "You are very beautiful.",
-      "arabic": "أنتِ جميلة جداً.",
-      "pronunciation": "Anti jameela jiddan.",
-      "context": "Use this to compliment a woman's appearance sincerely."
+      "english": "Learn from yesterday, live for today, hope for tomorrow.",
+      "arabic": "تعلم من الأمس، عش لليوم، أمل في الغد.",
+      "pronunciation": "Ta'allam min al-amsi, 'ish lil-yawm, amal fil-ghad.",
+      "context": "This is a motivational phrase about embracing life's journey."
     },
     {
-      "english": "My heart beats for you.",
-      "arabic": "قلبي ينبض لك.",
-      "pronunciation": "Qalbi yanbidhu lak.",
-      "context": "A poetic and romantic way to express deep affection."
+      "english": "A little bit of knowledge is a dangerous thing.",
+      "arabic": "قليل العلم خطر.",
+      "pronunciation": "Qaleel al-'ilm khatar.",
+      "context": "Said when someone thinks they know a lot but actually knows very little."
     },
     {
-      "english": "I miss you a lot.",
-      "arabic": "أفتقدك كثيراً.",
-      "pronunciation": "Aftaqiduka katheeran.",
-      "context": "Use this when you haven't seen someone you care about in a while."
+      "english": "The pen is mightier than the sword.",
+      "arabic": "القلم أقوى من السيف.",
+      "pronunciation": "Al-qalamu aqwaa min as-saif.",
+      "context": "This phrase highlights the power of communication over violence."
     },
     {
-      "english": "You are my everything.",
-      "arabic": "أنت كل شيء لي.",
-      "pronunciation": "Anta kullu shay'in li.",
-      "context": "This phrase conveys that the person is the most important thing in your life."
+      "english": "Every cloud has a silver lining.",
+      "arabic": "لكل محنة منحة.",
+      "pronunciation": "Li-kulli mihnah min'hah.",
+      "context": "Use this to remind someone that good can come from bad situations."
     }
   ],
   "total": 5
