@@ -1,35 +1,35 @@
 {
-  "category": "الهوايات والأنشطة",
+  "category": "الدافع",
   "phrases": [
     {
-      "english": "I enjoy reading books in my free time.",
-      "arabic": "أنا أستمتع بقراءة الكتب في وقت فراغي.",
-      "pronunciation": "Ana astamti' bi qira'at al-kutub fi waqt faraghi.",
-      "context": "Use this to talk about your favorite hobby."
+      "english": "I want to learn Arabic because it is the language of the Quran.",
+      "arabic": "أريد أن أتعلم العربية لأنها لغة القرآن.",
+      "pronunciation": "Ureed an ata'allam al-'arabiyya li'annaha lughat al-Qur'an.",
+      "context": "To state your primary motivation for learning Arabic."
     },
     {
-      "english": "My favorite hobby is playing football with my friends.",
-      "arabic": "هوايتي المفضلة هي لعب كرة القدم مع أصدقائي.",
-      "pronunciation": "Hiwayti al-mufaddalah hiya la'ib kurat al-qadam ma'a asdiqa'i.",
-      "context": "Share your preferred leisure activity."
+      "english": "I am motivated to practice speaking with native speakers.",
+      "arabic": "أنا متحمس لممارسة التحدث مع الناطقين بها.",
+      "pronunciation": "Ana mutahammis limumarasat at-tahadduth ma'a an-natiqeen biha.",
+      "context": "To express your eagerness to engage in conversation."
     },
     {
-      "english": "I like listening to music, especially Arabic music.",
-      "arabic": "أحب الاستماع إلى الموسيقى، وخاصة الموسيقى العربية.",
-      "pronunciation": "Uhibbu al-istima' ila al-musiqa, wa khassatan al-musiqa al-'arabiyyah.",
-      "context": "Express your enjoyment of a specific type of music."
+      "english": "This is a great opportunity to improve my Arabic skills.",
+      "arabic": "هذه فرصة رائعة لتحسين مهاراتي في اللغة العربية.",
+      "pronunciation": "Hadhihi fursa raa'i'a litahseen maharati fil-lugha al-'arabiyya.",
+      "context": "To acknowledge a beneficial situation for language development."
     },
     {
-      "english": "I love to travel and explore new places.",
-      "arabic": "أحب السفر واستكشاف الأماكن الجديدة.",
-      "pronunciation": "Uhibbu as-safar wa istikshaf al-amakin al-jadidah.",
-      "context": "Talk about your passion for exploring different locations."
+      "english": "I am determined to become fluent in Arabic.",
+      "arabic": "أنا مصمم على أن أصبح طليقًا في اللغة العربية.",
+      "pronunciation": "Ana musammam 'ala an usbih taliiqan fil-lugha al-'arabiyya.",
+      "context": "To declare your strong resolve to achieve fluency."
     },
     {
-      "english": "I spend my weekends hiking in the mountains.",
-      "arabic": "أقضي عطلة نهاية الأسبوع في المشي لمسافات طويلة في الجبال.",
-      "pronunciation": "Aqdi 'utlat nihayat al-usbu' fi al-mashi li masafat tawilah fi al-jibal.",
-      "context": "Describe how you spend your leisure time outdoors."
+      "english": "I find learning Arabic very rewarding.",
+      "arabic": "أجد تعلم اللغة العربية مجزيًا للغاية.",
+      "pronunciation": "Ajid ta'allum al-lugha al-'arabiyya mujziyan lil-ghaya.",
+      "context": "To share your positive feelings about the learning process."
     }
   ],
   "total": 5
