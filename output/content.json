@@ -1,35 +1,35 @@
 {
-  "category": "أساسيات السفر",
+  "category": "العائلة والعلاقات",
   "phrases": [
     {
-      "english": "Where is the nearest restroom?",
-      "arabic": "أين أقرب حمام؟",
-      "pronunciation": "Ayna aqrab hammam?",
-      "context": "Use this when you need to find a bathroom urgently."
+      "english": "My mother is a doctor and she is very kind.",
+      "arabic": "أمي طبيبة وهي لطيفة جدًا.",
+      "pronunciation": "Ummi tabeebah wa hiya lateefah jiddan.",
+      "context": "Use this to describe your mother's profession and personality."
     },
     {
-      "english": "How much does this cost?",
-      "arabic": "بكم هذا؟",
-      "pronunciation": "Bikam hatha?",
-      "context": "Ask this when you want to know the price of an item."
+      "english": "My father works in a bank and he is very smart.",
+      "arabic": "أبي يعمل في بنك وهو ذكي جدًا.",
+      "pronunciation": "Abi ya'mal fi bank wa huwa zakiyy jiddan.",
+      "context": "Use this to talk about your father's job and intelligence."
     },
     {
-      "english": "I would like a cup of coffee, please.",
-      "arabic": "أريد كوب قهوة من فضلك.",
-      "pronunciation": "Ureed koob qahwa min fadlak.",
-      "context": "Use this when ordering a drink at a cafe."
+      "english": "I have one brother and two sisters, and we are very close.",
+      "arabic": "لدي أخ واحد وأختان، ونحن مقربون جدًا.",
+      "pronunciation": "Ladaiy akh wahid wa ukhtan, wa nahnu muqarriboon jiddan.",
+      "context": "Use this to explain your sibling situation and family bond."
     },
     {
-      "english": "Can you help me, please?",
-      "arabic": "هل يمكنك مساعدتي من فضلك؟",
-      "pronunciation": "Hal yumkinuka musa'adati min fadlak?",
-      "context": "Say this if you need assistance from someone."
+      "english": "My grandmother loves to cook traditional food.",
+      "arabic": "جدتي تحب طهي الطعام التقليدي.",
+      "pronunciation": "Jaddati tuhibbu tahiy al-ta'am al-taqlidiyy.",
+      "context": "Use this to share a hobby or skill of your grandmother."
     },
     {
-      "english": "I don't understand.",
-      "arabic": "أنا لا أفهم.",
-      "pronunciation": "Ana la afham.",
-      "context": "Use this when you cannot comprehend what someone is saying."
+      "english": "My cousin is getting married next month.",
+      "arabic": "ابن عمي سيتزوج الشهر القادم.",
+      "pronunciation": "Ibn 'ammi sayatazawwaj al-shahr al-qadim.",
+      "context": "Use this to share news about a family member's upcoming event."
     }
   ],
   "total": 5
