@@ -1,35 +1,35 @@
 {
-  "category": "الحيوانات",
+  "category": "الألوان والأوصاف",
   "phrases": [
     {
-      "english": "I have a cat and a dog at home.",
-      "arabic": "لدي قطة وكلب في المنزل.",
-      "pronunciation": "Ladai qittah wa kalb fil manzil.",
-      "context": "Use this to tell someone about your pets."
+      "english": "This shirt is a beautiful blue color.",
+      "arabic": "هذا القميص لونه أزرق جميل.",
+      "pronunciation": "Hatha al-qamees lawnuhu azraq jameel.",
+      "context": "Use this to describe the color of an item of clothing."
     },
     {
-      "english": "The bird is singing beautifully outside.",
-      "arabic": "العصفور يغني بشكل جميل في الخارج.",
-      "pronunciation": "Al-'usfoor yughanni bishakl jameel fil kharij.",
-      "context": "Say this when you hear a bird singing."
+      "english": "I like the bright red car.",
+      "arabic": "أنا أحب السيارة الحمراء الزاهية.",
+      "pronunciation": "Ana uhibb al-sayyarah al-hamra' al-zahiyah.",
+      "context": "Use this to describe a vividly colored object."
     },
     {
-      "english": "I saw a rabbit in the park yesterday.",
-      "arabic": "رأيت أرنباً في الحديقة أمس.",
-      "pronunciation": "Ra'aitu arnanban fil hadeeqah ams.",
-      "context": "Use this to describe an animal sighting."
+      "english": "The dark green walls look very elegant.",
+      "arabic": "الجدران خضراء داكنة تبدو أنيقة جداً.",
+      "pronunciation": "Al-judran khadra' dakinah tabdu aniqah jiddan.",
+      "context": "Use this when describing sophisticated or subdued colors."
     },
     {
-      "english": "My neighbor has a very loud horse.",
-      "arabic": "جاري لديه حصان صاخب جداً.",
-      "pronunciation": "Jaree ladaihisan sakhib jiddan.",
-      "context": "Talk about a neighbor's animal."
+      "english": "His eyes are a deep brown color.",
+      "arabic": "عيناه لونها بني غامق.",
+      "pronunciation": "Aynahu lawnuha bunni ghamiq.",
+      "context": "Use this to describe the shade of someone's eyes."
     },
     {
-      "english": "I am afraid of snakes.",
-      "arabic": "أنا أخاف من الثعابين.",
-      "pronunciation": "Ana akhaf min ath-tha'aabeen.",
-      "context": "Express your fear of a specific animal."
+      "english": "She wore a dress that was light pink.",
+      "arabic": "ارتدت فستاناً لونه وردي فاتح.",
+      "pronunciation": "Irtadat fustanan lawnuhu wardi fatih.",
+      "context": "Use this to describe a pale or soft shade of color."
     }
   ],
   "total": 5
