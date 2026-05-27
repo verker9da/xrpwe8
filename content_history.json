@@ -177,13 +177,13 @@
     "good evening, i hope you are well.",
     "goodbye, may you be in god's protection.",
     "i don't understand what you mean.",
-    "can you please repeat that for me?"
+    "can you please repeat that for me?",
+    "i feel very tired today.",
+    "my head hurts a lot.",
+    "i need to drink more water.",
+    "i want to eat something healthy."
   ],
   "used_categories": [
-    {
-      "category": "الأرقام والوقت",
-      "timestamp": "2026-05-12T20:24:21.575103"
-    },
     {
       "category": "الاتجاهات",
       "timestamp": "2026-05-13T08:21:43.207498"
@@ -379,6 +379,10 @@
     {
       "category": "الحكمة",
       "timestamp": "2026-05-21T10:53:31.613199"
+    },
+    {
+      "category": "الصحة والجسد",
+      "timestamp": "2026-05-27T22:57:44.007300"
     }
   ],
   "phrase_hashes": [
@@ -559,6 +563,10 @@
     "8cb3aa5824159e8bbfa69b4d22d46ae2",
     "5538598d3993da884151da1ee2779e4e",
     "f1aa85cf0d48ea06b90bf67709010912",
-    "82dcb1235a4d25c57f031b050446908c"
+    "82dcb1235a4d25c57f031b050446908c",
+    "160b3fafff1376ad26d4c0e7825e7980",
+    "03de80e13dcff0c9af8c784f6b630677",
+    "4cc120658b17e4d0de91bf1856ae974e",
+    "3b2e033692b40407b4a1e8f59e2d6c8c"
   ]
 }
