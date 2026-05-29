@@ -212,13 +212,10 @@
     "i am practicing speaking arabic every day.",
     "this book is very helpful for my arabic studies.",
     "i hope to become fluent in arabic soon.",
-    "learning arabic opens up new cultural experiences for me."
+    "learning arabic opens up new cultural experiences for me.",
+    "i need to find a pharmacy."
   ],
   "used_categories": [
-    {
-      "category": "النجاح",
-      "timestamp": "2026-05-14T22:39:36.177060"
-    },
     {
       "category": "الحب",
       "timestamp": "2026-05-15T08:31:49.162135"
@@ -414,6 +411,10 @@
     {
       "category": "الاتجاهات",
       "timestamp": "2026-05-29T18:26:26.885414"
+    },
+    {
+      "category": "أساسيات السفر",
+      "timestamp": "2026-05-29T21:09:21.190741"
     }
   ],
   "phrase_hashes": [
@@ -629,6 +630,7 @@
     "fa219d938780b21de1c9a6e522c50de7",
     "04e1ab026b54e3c2b09cc7b56e0e48c2",
     "812a05875b717f2b7c09cc78e5019cac",
-    "4fc38d137664b2faef5662129f8deb48"
+    "4fc38d137664b2faef5662129f8deb48",
+    "5920bb3f50fddc968fceeb090fdafab0"
   ]
 }
