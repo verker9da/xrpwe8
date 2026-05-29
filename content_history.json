@@ -213,13 +213,12 @@
     "this book is very helpful for my arabic studies.",
     "i hope to become fluent in arabic soon.",
     "learning arabic opens up new cultural experiences for me.",
-    "i need to find a pharmacy."
+    "i need to find a pharmacy.",
+    "it is raining heavily right now.",
+    "i hope it will be sunny tomorrow.",
+    "there is a strong wind today."
   ],
   "used_categories": [
-    {
-      "category": "الحب",
-      "timestamp": "2026-05-15T08:31:49.162135"
-    },
     {
       "category": "الاتجاهات",
       "timestamp": "2026-05-15T10:05:44.858744"
@@ -415,6 +414,10 @@
     {
       "category": "أساسيات السفر",
       "timestamp": "2026-05-29T21:09:21.190741"
+    },
+    {
+      "category": "الطقس",
+      "timestamp": "2026-05-29T23:01:55.821586"
     }
   ],
   "phrase_hashes": [
@@ -631,6 +634,9 @@
     "04e1ab026b54e3c2b09cc7b56e0e48c2",
     "812a05875b717f2b7c09cc78e5019cac",
     "4fc38d137664b2faef5662129f8deb48",
-    "5920bb3f50fddc968fceeb090fdafab0"
+    "5920bb3f50fddc968fceeb090fdafab0",
+    "068924da3d8f9c77d4584b91db92f6ce",
+    "731113a364be8e662aa6711cd64e5db7",
+    "6e73417d255b81bda0f411b301d51c91"
   ]
 }
