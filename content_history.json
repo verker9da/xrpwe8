@@ -207,13 +207,14 @@
     "can you please send me the meeting agenda?",
     "i have a business meeting at ten o'clock.",
     "where is the nearest post office?",
-    "i would like to book a flight to dubai."
+    "i would like to book a flight to dubai.",
+    "i want to learn arabic because it's a beautiful language.",
+    "i am practicing speaking arabic every day.",
+    "this book is very helpful for my arabic studies.",
+    "i hope to become fluent in arabic soon.",
+    "learning arabic opens up new cultural experiences for me."
   ],
   "used_categories": [
-    {
-      "category": "الطعام والطعام",
-      "timestamp": "2026-05-14T11:27:03.946038"
-    },
     {
       "category": "الألوان والأوصاف",
       "timestamp": "2026-05-14T19:24:22.236632"
@@ -409,6 +410,10 @@
     {
       "category": "العمل والأعمال",
       "timestamp": "2026-05-29T05:03:14.852510"
+    },
+    {
+      "category": "الدافع",
+      "timestamp": "2026-05-29T07:50:17.550415"
     }
   ],
   "phrase_hashes": [
@@ -619,6 +624,11 @@
     "947dc9a1116b35efba376a4c5bc6b9d6",
     "4909d254fc27bfc1389d9e710403f7b9",
     "fed9cd22d912e1778ee77e97918e9b0a",
-    "005251cd1e56c196e97d902e2004aeb7"
+    "005251cd1e56c196e97d902e2004aeb7",
+    "824db6e8d07e974b09479e0c30dfe5ae",
+    "fa219d938780b21de1c9a6e522c50de7",
+    "04e1ab026b54e3c2b09cc7b56e0e48c2",
+    "812a05875b717f2b7c09cc78e5019cac",
+    "4fc38d137664b2faef5662129f8deb48"
   ]
 }
