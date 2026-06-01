@@ -229,17 +229,14 @@
     "this makes me feel peaceful.",
     "i am content with my life.",
     "everything is going well, thank god.",
-    "i feel a deep sense of joy."
+    "i feel a deep sense of joy.",
+    "thank you for your help.",
+    "i like the red car parked over there.",
+    "the sky is very clear and white today.",
+    "she has long, black hair.",
+    "this green apple looks very fresh."
   ],
   "used_categories": [
-    {
-      "category": "العواطف والمشاعر",
-      "timestamp": "2026-05-18T11:56:12.294990"
-    },
-    {
-      "category": "الاتجاهات",
-      "timestamp": "2026-05-18T12:57:39.069078"
-    },
     {
       "category": "أساسيات السفر",
       "timestamp": "2026-05-18T16:35:38.935482"
@@ -431,6 +428,14 @@
     {
       "category": "التحيات اليومية",
       "timestamp": "2026-06-01T21:58:46.152777"
+    },
+    {
+      "category": "التسوق",
+      "timestamp": "2026-06-01T23:21:11.975672"
+    },
+    {
+      "category": "الألوان والأوصاف",
+      "timestamp": "2026-06-01T23:21:23.852608"
     }
   ],
   "phrase_hashes": [
@@ -663,6 +668,11 @@
     "8b3e8a199ea6f0dbda3e902d9c2613ea",
     "d254cf1d73e8095f47dec21af2c230b3",
     "1c2c62c24aa548c1b3d377233ae8fc54",
-    "e6c3790df55a6bf71b8c4855439723de"
+    "e6c3790df55a6bf71b8c4855439723de",
+    "c430d2459dd1f420b115003970064c81",
+    "75723e8a759e09b67a87a25405c1ae67",
+    "f0db8d7ea85b8b443d01c26162dc6a52",
+    "edf2fe62917fcba7b41470260ec10c81",
+    "749705f0af48f58b42e0d37cc0441352"
   ]
 }
