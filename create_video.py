@@ -58,6 +58,7 @@ def create_video_from_images_and_audio(
             "-vf", f"scale={VIDEO_WIDTH}:{VIDEO_HEIGHT}:force_original_aspect_ratio=decrease,pad={VIDEO_WIDTH}:{VIDEO_HEIGHT}:(ow-iw)/2:(oh-ih)/2,fps={FPS}",
             "-t", str(duration),
             "-c:v", "libx264",
+            "-b:v", "2M",
             "-pix_fmt", "yuv420p",
             "-preset", "medium",
             str(temp_clip)
